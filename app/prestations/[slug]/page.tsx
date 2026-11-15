@@ -28,6 +28,7 @@ export default async function Page({ params }: { params: Promise<Params> }) {
   const s = getService(slug);
   if (!s) notFound();
   if (["portes-d-entree", "volets-bois", "fenetres-bois"].includes(slug)) return <RenovationServicePage service={s} />;
+  if (["parquets", "escaliers", "agencement-sur-mesure", "depannage-effraction"].includes(slug)) return <RenovationServicePage service={s} remaining />;
   const related = s.related.map((r) => getService(r)!).filter(Boolean);
 
   const faqLd = {
