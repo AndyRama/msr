@@ -174,98 +174,240 @@ export const services: Service[] = [
     related: ["volets-bois", "portes-d-entree"],
   },
   {
-    slug: "parquets",
-    title: "Parquets",
-    pageTitle: "Pose et rénovation de parquet à Bordeaux",
-    eyebrow: "Parquets",
-    lead: "Pose collée, parquet à chevrons, rénovation de sols d'appartement. La préparation fait le résultat.",
-    short: "Pose collée, parquet à chevrons, rénovation de sols d'appartement. La préparation fait le résultat.",
-    intro: [
-      "Un beau parquet commence par un support bien préparé. Nous vérifions, nivelons et préparons avant de poser, pour un sol qui dure.",
-      "Chevrons, point de Hongrie, lames : la finition mate et naturelle redonne à l'appartement sa géométrie sans perdre sa patine.",
+    "slug": "parquets",
+    "title": "Parquets",
+    "pageTitle": "Pose et rénovation de parquet à Bordeaux",
+    "eyebrow": "Sols & parquets",
+    "lead": "Un parquet à chevrons, un sol qui craque, un appartement ancien : la pose se prépare avant de se poser.",
+    "short": "Pose collée, parquet à chevrons, rénovation de sols d'appartement. La préparation fait le résultat.",
+    "intro": [
+      "Dans l'ancien, un parquet ne se pose pas sur n'importe quoi. Il faut regarder le support, les niveaux, l'humidité, les murs qui ne sont jamais tout à fait droits. C'est ce travail-là qui décide si le sol sera encore beau dans vingt ans.",
+      "MSR Bois pose des parquets collés, y compris des parquets à chevrons, et rénove les sols d'appartements. Les conseils sur le choix du bois et le sens de pose font partie du travail : vous comprenez ce que vous choisissez. Chevrons, point de Hongrie, lames : la finition mate et naturelle redonne à l'appartement sa géométrie sans perdre sa patine."
     ],
-    items: [
-      { t: "Pose collée", d: "Préparation du support, pose collée, finition." },
-      { t: "Parquet à chevrons", d: "Pose et rénovation de parquets à motifs dans l'ancien." },
-      { t: "Rénovation de parquets anciens", d: "Remise en état, réparations ponctuelles, finition mate naturelle." },
+    "items": [
+      {
+        "t": "Pose de parquet collé",
+        "d": "Une pose stable et silencieuse, adaptée aux appartements anciens et aux grandes surfaces."
+      },
+      {
+        "t": "Parquet à chevrons",
+        "d": "Un calepinage préparé avec soin, des angles justes et des joints alignés au millimètre."
+      },
+      {
+        "t": "Rénovation de sols",
+        "d": "Reprise d'un parquet existant, remplacement de lames, remise en état des plinthes et réparations ponctuelles, avec une finition mate naturelle."
+      },
+      {
+        "t": "Conseil sur la pose dans l’ancien",
+        "d": "Supports, niveaux, humidité, sens de pose : les points à trancher avant de commander."
+      },
+      {
+        "t": "Préparation du support",
+        "d": "Ragréage et préparation du sol quand c'est nécessaire — c'est souvent là que se joue la planéité."
+      }
     ],
-    quote: "Un sol qui retrouve sa géométrie sans perdre sa patine.",
-    image: "parquet.jpg",
-    faq: [
-      { q: "Combien de temps dure un chantier de parquet ?", a: "Cela dépend de la surface et de l'état du support. Le délai est donné dans le devis." },
-      { q: "Peut-on rénover un parquet ancien plutôt que le remplacer ?", a: "Oui, dans la grande majorité des cas." },
+    "quote": "Le parquet à chevrons est un classique des appartements bordelais. Bien posé, il traverse les décennies sans se démoder.",
+    "image": "parquet.jpg",
+    "faq": [
+      {
+        "q": "Quel parquet choisir dans un immeuble ancien ?",
+        "a": "Le choix dépend du support, des niveaux, de l'humidité et du rendu recherché. Chevrons, point de Hongrie ou lames : nous discutons du bois, du sens de pose et de la finition. Peut-on rénover un parquet ancien plutôt que le remplacer ? Oui, dans la grande majorité des cas."
+      },
+      {
+        "q": "Parquet collé ou flottant ?",
+        "a": "Nous réalisons la pose collée. L'état du support et les contraintes de l'appartement sont examinés avant de choisir la solution de pose adaptée."
+      },
+      {
+        "q": "Peut-on poser un parquet à chevrons partout ?",
+        "a": "Le support, les niveaux, l'humidité et la géométrie de la pièce doivent être vérifiés. Le calepinage permet ensuite de préparer les angles, les alignements et le sens de pose."
+      },
+      {
+        "q": "Combien de temps pour un appartement ?",
+        "a": "Cela dépend de la surface et de l'état du support. Le délai est donné dans le devis."
+      }
     ],
-    related: ["escaliers", "agencement-sur-mesure"],
+    "related": [
+      "escaliers",
+      "agencement-sur-mesure"
+    ],
+    "reviews": ["Julien D.", "Camille & Théo"].map((author) => reviews.find((r) => r.author === author)!),
   },
   {
-    slug: "escaliers",
-    title: "Escaliers",
-    pageTitle: "Escaliers bois à Bordeaux : pose et rénovation",
-    eyebrow: "Escaliers",
-    lead: "Pose d'escalier et garde-corps, rénovation d'escaliers bois, y compris dans les restaurants.",
-    short: "Pose d'escalier et garde-corps, rénovation d'escaliers bois, y compris dans les restaurants.",
-    intro: [
-      "Marches usées, garde-corps instable, finitions fatiguées : un escalier en bois se reprend sans le remplacer.",
-      "Nous remettons en état les marches, ajustons et sécurisons le garde-corps, puis cirons pour retrouver la chaleur du bois d'origine.",
+    "slug": "escaliers",
+    "title": "Escaliers",
+    "pageTitle": "Rénovation et pose d’escalier bois à Bordeaux",
+    "eyebrow": "Escaliers",
+    "lead": "Un escalier, c'est la pièce qu'on voit tous les jours. Autant qu'il soit juste, solide, et qu'il donne envie de le monter.",
+    "short": "Pose d'escalier et garde-corps, rénovation d'escaliers bois, y compris dans les restaurants.",
+    "intro": [
+      "Escalier d'immeuble ancien, escalier de restaurant, escalier de maison : nous rénovons l'existant quand la structure le permet, et nous posons des escaliers neufs avec leur garde-corps quand il faut repartir de zéro.",
+      "Marches, contremarches, rampe, main courante : chaque élément est ajusté. Et comme on y circule tous les jours, les points de sécurité sont regardés sérieusement, pas en fin de chantier. Marches usées, garde-corps instable, finitions fatiguées : nous remettons en état, ajustons et sécurisons, puis cirons pour retrouver la chaleur du bois d'origine."
     ],
-    items: [
-      { t: "Rénovation d'escaliers bois", d: "Reprise des marches, des contremarches et des finitions." },
-      { t: "Garde-corps", d: "Ajustement, sécurisation, pose." },
-      { t: "Escaliers de restaurants et locaux", d: "Chantier organisé autour de vos horaires d'ouverture." },
+    "items": [
+      {
+        "t": "Pose d’escalier et garde-corps",
+        "d": "Escalier neuf et garde-corps ajustés à la trémie et aux contraintes de la pièce."
+      },
+      {
+        "t": "Rénovation d’escalier bois",
+        "d": "Reprise des marches et contremarches, réglages, remise en état de la rampe."
+      },
+      {
+        "t": "Escaliers de restaurant",
+        "d": "Un chantier organisé pour limiter la fermeture : on prépare en atelier, on pose vite. L'organisation tient compte de vos horaires d'ouverture, pour les restaurants et les autres locaux."
+      },
+      {
+        "t": "Mise en sécurité",
+        "d": "Stabilité, main courante, garde-corps : les points sensibles sont traités et expliqués."
+      },
+      {
+        "t": "Finitions",
+        "d": "Bois ciré, huilé, patiné : le rendu est choisi avec vous, en accord avec le lieu."
+      }
     ],
-    quote: "Retrouver la chaleur du bois d'origine.",
-    image: "escalier.jpg",
-    faq: [
-      { q: "Intervenez-vous dans les immeubles collectifs ?", a: "Oui, nous organisons le chantier pour limiter la gêne aux occupants." },
+    "quote": "Dans un immeuble bordelais, l'escalier est collectif : il doit être beau, mais d'abord sûr et silencieux.",
+    "image": "escalier.jpg",
+    "faq": [
+      {
+        "q": "Rénover ou remplacer un escalier ?",
+        "a": "Nous rénovons l'existant quand la structure le permet. Si elle ne peut pas être conservée, nous discutons d'un escalier neuf et de son garde-corps, adaptés à la trémie et aux contraintes de la pièce."
+      },
+      {
+        "q": "Comment sécuriser un escalier ancien ?",
+        "a": "La stabilité des marches, la rampe, la main courante et le garde-corps sont examinés. Nous ajustons et remettons en état les éléments qui le nécessitent, en expliquant les points sensibles."
+      },
+      {
+        "q": "Un escalier de restaurant peut-il être rénové sur place ?",
+        "a": "Les interventions sur place et les préparations en atelier sont définies selon l'état de l'escalier et les contraintes du local. Le chantier est organisé autour de vos horaires d'ouverture pour limiter la fermeture."
+      },
+      {
+        "q": "Combien de temps prend un escalier ?",
+        "a": "La durée dépend des reprises nécessaires, de la finition et des conditions d'accès. Elle est à préciser dans le devis. Intervenez-vous dans les immeubles collectifs ? Oui, nous organisons le chantier pour limiter la gêne aux occupants."
+      }
     ],
-    related: ["parquets", "agencement-sur-mesure"],
+    "related": [
+      "parquets",
+      "agencement-sur-mesure"
+    ],
+    "reviews": ["Sophie L.", "Julien D."].map((author) => reviews.find((r) => r.author === author)!),
   },
   {
-    slug: "agencement-sur-mesure",
-    title: "Agencement sur mesure",
-    pageTitle: "Agencement sur mesure à Bordeaux",
-    eyebrow: "Agencement",
-    lead: "Placards sous escalier, panneaux décoratifs, lambris, mobilier intégré : dessiné pour vos murs.",
-    short: "Placards sous escalier, panneaux décoratifs, lambris, mobilier intégré : dessiné pour vos murs.",
-    intro: [
-      "Chaque niche est mesurée et fabriquée pour épouser les murs et l'escalier. Portes sans poignée apparente, lignes nettes.",
-      "Nous mesurons sur place, discutons des matériaux, puis fabriquons et posons.",
+    "slug": "agencement-sur-mesure",
+    "title": "Agencement sur mesure",
+    "pageTitle": "Agencement sur mesure à Bordeaux",
+    "eyebrow": "Agencement",
+    "lead": "Dans l'ancien, rien n'est droit. C'est justement pour ça que le sur-mesure existe.",
+    "short": "Placards sous escalier, panneaux décoratifs, lambris, mobilier intégré : dessiné pour vos murs.",
+    "intro": [
+      "Un placard sous escalier, une bibliothèque qui épouse un mur, des panneaux décoratifs, un lambris remplacé : le sur-mesure sert à faire entrer du rangement et du dessin dans des volumes qui n'ont jamais été faits pour du standard.",
+      "Chaque projet part des mesures réelles — y compris des murs qui ne sont pas d'aplomb. Le résultat est un meuble qui a l'air d'avoir toujours été là, et qui travaille pour vous au quotidien. Nous mesurons sur place, discutons des matériaux, puis fabriquons et posons : chaque niche épouse les murs et l'escalier, avec des portes sans poignée apparente et des lignes nettes."
     ],
-    items: [
-      { t: "Placards sous escalier", d: "Rangements mesurés pour la niche, portes sans poignée apparente." },
-      { t: "Lambris et panneaux décoratifs", d: "Habillages muraux en bois." },
-      { t: "Mobilier intégré", d: "Bibliothèques, banquettes, meubles dessinés pour la pièce." },
+    "items": [
+      {
+        "t": "Rangements sous escalier",
+        "d": "Exploiter une niche perdue pour créer du rangement fermé, ajusté au millimètre, avec des portes sans poignée apparente."
+      },
+      {
+        "t": "Panneaux décoratifs",
+        "d": "Habillages muraux en bois et panneaux pour structurer une pièce sans la charger."
+      },
+      {
+        "t": "Remplacement de lambris",
+        "d": "Retirer un lambris abîmé et retrouver un mur propre, ou le remplacer par un habillage neuf."
+      },
+      {
+        "t": "Mobilier intégré",
+        "d": "Bibliothèques, niches, banquettes : du mobilier dessiné pour votre pièce."
+      },
+      {
+        "t": "Locaux professionnels",
+        "d": "Comptoirs, habillages, rangements pour commerces, restaurants et bureaux."
+      }
     ],
-    quote: "Chaque niche mesurée, chaque ligne nette.",
-    image: "agencement.jpg",
-    faq: [
-      { q: "Faut-il un plan avant le devis ?", a: "Non. Un appel et quelques photos suffisent pour démarrer. Nous venons ensuite mesurer." },
+    "quote": "Un placard bien dessiné dans un appartement ancien ne s'impose pas : il comble un vide et disparaît dans l'architecture.",
+    "image": "agencement.jpg",
+    "faq": [
+      {
+        "q": "Le sur-mesure a-t-il un sens dans un appartement ancien ?",
+        "a": "Oui : les mesures réelles permettent de composer avec les murs qui ne sont pas d'aplomb et les niches sous escalier. Faut-il un plan avant le devis ? Non. Un appel et quelques photos suffisent pour démarrer. Nous venons ensuite mesurer."
+      },
+      {
+        "q": "Quels matériaux utilisez-vous ?",
+        "a": "Les matériaux et les finitions sont discutés avec vous à partir de la pièce, de l'usage du meuble et du rendu souhaité. Les habillages muraux en bois font partie des possibilités."
+      },
+      {
+        "q": "Combien de temps entre le devis et la pose ?",
+        "a": "Le délai dépend du projet, des mesures et de la fabrication. Nous précisons l'organisation et le calendrier lors du devis, avant la fabrication et la pose."
+      },
+      {
+        "q": "Travaillez-vous pour les commerces ?",
+        "a": "Les agencements concernent aussi les locaux professionnels : comptoirs, habillages et rangements pour commerces, restaurants et bureaux. Les contraintes du lieu sont discutées avant de définir le projet."
+      }
     ],
-    related: ["escaliers", "parquets"],
+    "related": [
+      "escaliers",
+      "parquets"
+    ],
+    "reviews": ["Camille & Théo", "Sophie L."].map((author) => reviews.find((r) => r.author === author)!),
   },
   {
-    slug: "depannage-effraction",
-    title: "Dépannage & effraction",
-    pageTitle: "Dépannage menuiserie après effraction à Bordeaux",
-    eyebrow: "Urgence",
-    lead: "Porte forcée, cadre arraché, vitre cassée : remettre le lieu en sécurité, puis réparer proprement.",
-    short: "Porte forcée, cadre arraché, vitre cassée : remettre le lieu en sécurité, puis réparer proprement.",
-    intro: [
-      "Après une effraction, la priorité est de sécuriser. Appelez directement : nous vous disons franchement ce qui est possible selon l'heure.",
-      "Ensuite, nous réparons proprement : cadre, porte, vitrage. Devis et facture clairs, utilisables pour votre assurance.",
+    "slug": "depannage-effraction",
+    "title": "Dépannage & effraction",
+    "pageTitle": "Réparation après effraction à Bordeaux",
+    "eyebrow": "Urgence & sécurité",
+    "lead": "Une porte forcée, un cadre arraché, une vitre cassée : d'abord mettre en sécurité, ensuite réparer proprement.",
+    "short": "Porte forcée, cadre arraché, vitre cassée : remettre le lieu en sécurité, puis réparer proprement.",
+    "intro": [
+      "Après une effraction, il y a deux urgences : empêcher que ça recommence, et retrouver un lieu utilisable. Un commerce qui ne ferme plus, un logement ouvert à tous les vents : on comprend que ce n'est pas confortable.",
+      "Nous intervenons pour remettre en état le cadre de porte, la porte ou la fenêtre touchée. Nous vous disons franchement ce qui est possible, à quel moment, et ce que ça implique — sans promettre un délai que nous ne pourrions pas tenir. Appelez directement : nous vous disons franchement ce qui est possible selon l'heure. La mise en sécurité précède la réparation du cadre, de la porte et du vitrage, avec un devis et une facture clairs, utilisables pour votre assurance."
     ],
-    items: [
-      { t: "Mise en sécurité", d: "Fermeture provisoire solide pour protéger le lieu." },
-      { t: "Réparation du cadre et de la porte", d: "Remise en état du bois, de la quincaillerie et des serrures." },
-      { t: "Devis et facture pour l'assurance", d: "Documents clairs et détaillés en cas de sinistre." },
+    "items": [
+      {
+        "t": "Mise en sécurité",
+        "d": "Reprendre ce qui peut l'être pour que le lieu soit fermé, avec une fermeture provisoire solide pour le protéger, avant toute réparation définitive."
+      },
+      {
+        "t": "Cadre de porte forcé",
+        "d": "Reprise du cadre et du bâti, souvent sur les portes d'entrée de commerce, avec remise en état du bois, de la quincaillerie et des serrures."
+      },
+      {
+        "t": "Porte d’entrée endommagée",
+        "d": "Réparation d'une porte ancienne forcée, ou remplacement si la structure est trop atteinte."
+      },
+      {
+        "t": "Fenêtre ou porte vitrée",
+        "d": "Dépose de l'élément cassé et remise en état de l'ouverture."
+      },
+      {
+        "t": "Devis et facture détaillés",
+        "d": "Des documents clairs, utiles pour votre déclaration à l'assurance."
+      }
     ],
-    quote: "Dans ces moments-là, le plus important est de sécuriser vite et proprement.",
-    image: "devanture.jpg",
-    faq: [
-      { q: "Intervenez-vous en urgence ?", a: "Appelez directement : nous vous disons franchement ce qui est possible selon l'heure." },
-      { q: "Fournissez-vous un devis pour l'assurance ?", a: "Oui, un devis et une facture clairs et détaillés." },
+    "quote": "Un artisan qui répond vite, ce n'est pas un argument marketing : c'est ce qui permet à un commerce de rouvrir et à une famille de dormir tranquille.",
+    "image": "devanture.jpg",
+    "faq": [
+      {
+        "q": "Que faire en premier après une effraction ?",
+        "a": "La priorité est de sécuriser le lieu avant la réparation définitive. Appelez directement : nous vous disons franchement ce qui est possible selon l'heure."
+      },
+      {
+        "q": "Intervenez-vous la nuit ou le week-end ?",
+        "a": "Appelez directement : nous vous disons franchement ce qui est possible selon l'heure. Les possibilités d'intervention doivent être confirmées au téléphone ; aucun délai ne peut être promis sans examiner la situation."
+      },
+      {
+        "q": "Travaillez-vous avec les assurances ?",
+        "a": "Fournissez-vous un devis pour l'assurance ? Oui, un devis et une facture clairs et détaillés. Ces documents sont utilisables pour votre déclaration ; les conditions de prise en charge sont à vérifier avec votre assureur."
+      },
+      {
+        "q": "Et pour un commerce fermé par une porte forcée ?",
+        "a": "Nous examinons la mise en sécurité et la remise en état du cadre, du bâti et de la porte du commerce. Appelez pour expliquer les dégâts : nous vous disons ce qui est possible et à quel moment, sans promettre un délai que nous ne pourrions pas tenir."
+      }
     ],
-    related: ["portes-d-entree", "volets-bois"],
+    "related": [
+      "portes-d-entree",
+      "volets-bois"
+    ],
+    "reviews": ["Antoine R.", "Claire M."].map((author) => reviews.find((r) => r.author === author)!),
   },
 ];
 

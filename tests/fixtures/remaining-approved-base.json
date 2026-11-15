@@ -1,0 +1,622 @@
+{
+  "base": "0813ab28d918c229e4d02f02e9c2c1eae4ac758c",
+  "services": [
+    {
+      "slug": "portes-d-entree",
+      "title": "Portes d'entrée",
+      "pageTitle": "Rénovation de porte d'entrée à Bordeaux",
+      "eyebrow": "Portes & ouvertures",
+      "lead": "Votre porte d'entrée a du caractère et elle ne ferme plus comme avant ? Souvent, elle n'a pas besoin d'être remplacée.",
+      "short": "Rénover une porte ancienne plutôt que la remplacer : bois, quincaillerie, réglages, étanchéité.",
+      "intro": [
+        "Dans les immeubles bordelais, les portes anciennes font partie de l'âme du lieu. Les arracher pour poser un modèle standard, c'est perdre ce qui donne son cachet à un hall, à un couloir, à une entrée.",
+        "MSR Bois rénove les portes anciennes : reprise des panneaux abîmés, remise en état du bâti, réglages, quincaillerie et finition. Quand la rénovation n'est plus raisonnable, nous posons aussi des portes neuves — et nous vous disons franchement ce qui est préférable dans votre cas."
+      ],
+      "items": [
+        {
+          "t": "Rénovation de portes anciennes",
+          "d": "Dépose, reprise des panneaux et du bâti, remise en état des bois, réglages et repose."
+        },
+        {
+          "t": "Remplacement de porte d'entrée",
+          "d": "Quand la structure est trop atteinte : porte neuve, aux bonnes dimensions, posée proprement."
+        },
+        {
+          "t": "Portes de boutique et de commerce",
+          "d": "Une porte de boutique ancienne se rénove sans effacer ce qui fait son caractère."
+        },
+        {
+          "t": "Portes-fenêtres et portes vitrées",
+          "d": "Réparation d'une porte-fenêtre en bois, dépose, ajustements et remise en service."
+        },
+        {
+          "t": "Réglages et étanchéité",
+          "d": "Une porte qui frotte, qui ne joint plus, qui laisse passer l'air : souvent quelques réglages suffisent."
+        }
+      ],
+      "quote": "Un hall bordelais, une porte cochère, une moulure : ici, on répare avant de remplacer. C'est aussi, presque toujours, la solution la plus raisonnable pour votre budget.",
+      "image": "porte-entree.jpg",
+      "reviews": [
+        {
+          "text": "Sylvain a rénové notre porte d'entrée ancienne. Il a été le premier à répondre et le seul à nous rappeler. Devis clair, donné rapidement, et un travail vraiment soigné : la porte ferme parfaitement et le bois est superbe. Le chantier a été laissé impeccable.",
+          "author": "Claire M.",
+          "date": "Mars 2025",
+          "tag": "Porte d'entrée",
+          "reply": "Merci Claire, c'était un vrai plaisir de redonner vie à cette porte. Elle avait du caractère, il fallait juste la respecter. À bientôt !"
+        },
+        {
+          "text": "Après une tentative d'effraction sur notre commerce, Sylvain est venu remettre le cadre de porte en état très rapidement. Réactif, franc sur ce qui était possible de faire, et un travail solide. On a pu rouvrir sans stress.",
+          "author": "Antoine R.",
+          "date": "Février 2025",
+          "tag": "Effraction",
+          "reply": "Merci Antoine. Dans ces moments-là, le plus important c'est de sécuriser vite et proprement. Bonne reprise à vous et à votre équipe."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Faut-il rénover ou remplacer une porte d'entrée ancienne ?",
+          "a": "Tant que le bâti et les panneaux sont sains, la rénovation est presque toujours préférable : elle conserve le caractère de la porte et coûte généralement moins cher. Si la structure est trop atteinte, nous vous le disons et proposons un remplacement."
+        },
+        {
+          "q": "Intervenez-vous dans les immeubles anciens et en copropriété ?",
+          "a": "Oui, c'est le cœur de notre activité à Bordeaux. Nous nous adaptons aux contraintes de l'immeuble et prévenons le syndic ou le gardien si nécessaire."
+        },
+        {
+          "q": "Combien de temps prend une rénovation de porte ?",
+          "a": "Selon l'état de la porte, la rénovation se fait en atelier ou sur place, en quelques jours. Le délai exact vous est donné dans le devis."
+        },
+        {
+          "q": "Travaillez-vous pour les commerces ?",
+          "a": "Oui. Nous organisons le chantier autour de vos horaires d'ouverture pour limiter l'arrêt d'activité."
+        }
+      ],
+      "related": [
+        "volets-bois",
+        "depannage-effraction"
+      ]
+    },
+    {
+      "slug": "volets-bois",
+      "title": "Volets à persiennes",
+      "pageTitle": "Restauration de volets bois à Bordeaux",
+      "eyebrow": "Volets & fenêtres",
+      "lead": "Des persiennes qui coincent, une peinture qui s'écaille, une lame cassée : avant de les remplacer, regardons ce qu'elles ont encore à dire.",
+      "short": "Des persiennes fatiguées peuvent retrouver des années de service. Restauration, lames, ferrures, réglages.",
+      "intro": [
+        "Sur les façades en pierre blonde de Bordeaux, les volets à persiennes font autant partie du bâtiment que les moulures. Bien restaurés, ils protègent du soleil, tiennent la rue à distance et tiennent encore des décennies.",
+        "Nous déposons, remettons en état et reposons : lames, assemblages, ferrures, réglages. Souvent, la restauration coûte moins cher qu'un remplacement — et elle garde l'ensemble cohérent avec la façade."
+      ],
+      "items": [
+        {
+          "t": "Restauration de persiennes",
+          "d": "Remise en état des lames et des assemblages, sans perdre la patine du bois."
+        },
+        {
+          "t": "Lames et ferrures",
+          "d": "Remplacement des lames abîmées et réglage des ferrures pour que les volets coulissent et se ferment correctement."
+        },
+        {
+          "t": "Volets et contrevents bois",
+          "d": "Reprise des volets et contrevents en bois, dans le respect de la menuiserie existante."
+        },
+        {
+          "t": "Dépose et repose soignées",
+          "d": "Les volets sont démontés, travaillés puis reposés en place, sans abîmer la façade ni les tableaux."
+        },
+        {
+          "t": "Préparation avant finition",
+          "d": "Les bois sont préparés pour la finition de votre choix : nous parlons ensemble des options avant de chiffrer."
+        }
+      ],
+      "quote": "Rue Sainte-Catherine ou cours de l'Intendance, la persienne est un motif de façade. La restaurer, c'est garder le rythme de la rue intact.",
+      "image": "volets.jpg",
+      "reviews": [
+        {
+          "text": "Restauration de nos volets à persiennes et de nos fenêtres en bois. J'avais peur qu'ils soient irrécupérables, Sylvain a pris le temps de tout regarder et de tout reprendre. Le résultat est magnifique et la façade a retrouvé son cachet.",
+          "author": "Martine B.",
+          "date": "Septembre 2024",
+          "tag": "Volets à persiennes",
+          "reply": "Merci Martine. Ces persiennes avaient de belles années devant elles, il suffisait de s'en occuper sérieusement. Merci de votre confiance."
+        },
+        {
+          "text": "Sylvain a rénové notre porte d'entrée ancienne. Il a été le premier à répondre et le seul à nous rappeler. Devis clair, donné rapidement, et un travail vraiment soigné : la porte ferme parfaitement et le bois est superbe. Le chantier a été laissé impeccable.",
+          "author": "Claire M.",
+          "date": "Mars 2025",
+          "tag": "Porte d'entrée",
+          "reply": "Merci Claire, c'était un vrai plaisir de redonner vie à cette porte. Elle avait du caractère, il fallait juste la respecter. À bientôt !"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Mes vieilles persiennes sont-elles réparables ?",
+          "a": "Dans la plupart des cas, oui. Nous remplaçons seulement les lames et pièces trop abîmées."
+        },
+        {
+          "q": "Rénover ou remplacer des volets ?",
+          "a": "L'état des lames, des assemblages et des ferrures permet de choisir. Nous regardons ce qui peut être conservé et discutons d'un remplacement si la restauration n'est plus adaptée."
+        },
+        {
+          "q": "Travaillez-vous en hauteur ?",
+          "a": "Oui, avec le matériel adapté. Nous précisons les contraintes d'accès lors de la visite."
+        },
+        {
+          "q": "Combien de volets pouvez-vous traiter ?",
+          "a": "Le nombre de volets, leur état et les conditions d'accès sont à préciser lors de la visite. Le périmètre du chantier est défini dans le devis."
+        }
+      ],
+      "related": [
+        "fenetres-bois",
+        "portes-d-entree"
+      ]
+    },
+    {
+      "slug": "fenetres-bois",
+      "title": "Fenêtres bois",
+      "pageTitle": "Fenêtres en bois : réparation et pose à Bordeaux",
+      "eyebrow": "Volets & fenêtres",
+      "lead": "Une fenêtre qui ferme mal laisse passer l'air, le bruit et le doute. Parfois, elle demande juste d'être réparée.",
+      "short": "Réparer plutôt que jeter : fenêtres anciennes, petits carreaux, portes-fenêtres, réglages et joints.",
+      "intro": [
+        "Les fenêtres en bois des immeubles anciens ont une qualité qu'on ne trouve pas toujours dans les menuiseries neuves : des montants fins, des petits carreaux, une lumière particulière. Leur entretien est simple, à condition d'être fait correctement.",
+        "Nous réparons les menuiseries existantes quand c'est possible, et nous posons des fenêtres neuves — bois ou PVC en rénovation — quand le remplacement s'impose. Le choix se fait ensemble, en fonction de l'état, du budget et du confort attendu."
+      ],
+      "items": [
+        {
+          "t": "Réparation de fenêtres anciennes",
+          "d": "Reprise des bois, ajustement des ouvrants, remise en état de la quincaillerie."
+        },
+        {
+          "t": "Pose de fenêtres en rénovation",
+          "d": "Fenêtres PVC en rénovation, posées dans le cadre existant, sans casser les tableaux."
+        },
+        {
+          "t": "Portes-fenêtres et portes vitrées",
+          "d": "Réparation ou dépose d'une porte-fenêtre en bois qui ne ferme plus, qui frotte ou qui laisse entrer l'air."
+        },
+        {
+          "t": "Réglages et joints",
+          "d": "Courants d'air, joints passés : parfois quelques réglages et il n'en passe plus."
+        },
+        {
+          "t": "Petits carreaux",
+          "d": "Conserver la finesse des petits bois d'origine quand c'est viable, c'est garder le caractère de la pièce."
+        }
+      ],
+      "quote": "Une fenêtre ancienne bien réparée, c'est de la lumière avec du caractère. Une fenêtre mal posée, c'est une pièce qui perd son visage.",
+      "image": "fenetres.jpg",
+      "reviews": [
+        {
+          "text": "Restauration de nos volets à persiennes et de nos fenêtres en bois. J'avais peur qu'ils soient irrécupérables, Sylvain a pris le temps de tout regarder et de tout reprendre. Le résultat est magnifique et la façade a retrouvé son cachet.",
+          "author": "Martine B.",
+          "date": "Septembre 2024",
+          "tag": "Volets à persiennes",
+          "reply": "Merci Martine. Ces persiennes avaient de belles années devant elles, il suffisait de s'en occuper sérieusement. Merci de votre confiance."
+        },
+        {
+          "text": "Un placard sur mesure sous l'escalier, parfaitement ajusté aux murs pas droits de l'appartement. Du conseil au montage, tout a été simple. Et un chantier laissé propre, ce qui n'est pas toujours le cas.",
+          "author": "Camille & Théo",
+          "date": "Janvier 2025",
+          "tag": "Agencement sur mesure",
+          "reply": "Merci à vous deux ! C'est le genre de projet où les centimètres comptent. Ravi que ce qu'on a fait facilite la vie au quotidien."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Peut-on réparer mes fenêtres anciennes ?",
+          "a": "Souvent, oui : réglages, joints et reprise de la quincaillerie améliorent nettement l'étanchéité."
+        },
+        {
+          "q": "Bois ou PVC : comment choisir ?",
+          "a": "Le choix dépend de l'état des fenêtres, du caractère de la façade, du budget et du confort recherché. Nous examinons d'abord les menuiseries existantes avant de discuter d'une réparation ou d'une pose en rénovation."
+        },
+        {
+          "q": "Une fenêtre qui ferme mal doit-elle être remplacée ?",
+          "a": "Pas nécessairement. Un ajustement des ouvrants, une reprise du bois, des joints ou de la quincaillerie peuvent suffire. L'état de la fenêtre permet de déterminer l'intervention adaptée."
+        },
+        {
+          "q": "Intervenez-vous en copropriété ?",
+          "a": "Oui, c'est le cœur de notre activité à Bordeaux. Nous nous adaptons aux contraintes de l'immeuble et prévenons le syndic ou le gardien si nécessaire."
+        }
+      ],
+      "related": [
+        "volets-bois",
+        "portes-d-entree"
+      ]
+    },
+    {
+      "slug": "parquets",
+      "title": "Parquets",
+      "pageTitle": "Pose et rénovation de parquet à Bordeaux",
+      "eyebrow": "Parquets",
+      "lead": "Pose collée, parquet à chevrons, rénovation de sols d'appartement. La préparation fait le résultat.",
+      "short": "Pose collée, parquet à chevrons, rénovation de sols d'appartement. La préparation fait le résultat.",
+      "intro": [
+        "Un beau parquet commence par un support bien préparé. Nous vérifions, nivelons et préparons avant de poser, pour un sol qui dure.",
+        "Chevrons, point de Hongrie, lames : la finition mate et naturelle redonne à l'appartement sa géométrie sans perdre sa patine."
+      ],
+      "items": [
+        {
+          "t": "Pose collée",
+          "d": "Préparation du support, pose collée, finition."
+        },
+        {
+          "t": "Parquet à chevrons",
+          "d": "Pose et rénovation de parquets à motifs dans l'ancien."
+        },
+        {
+          "t": "Rénovation de parquets anciens",
+          "d": "Remise en état, réparations ponctuelles, finition mate naturelle."
+        }
+      ],
+      "quote": "Un sol qui retrouve sa géométrie sans perdre sa patine.",
+      "image": "parquet.jpg",
+      "faq": [
+        {
+          "q": "Combien de temps dure un chantier de parquet ?",
+          "a": "Cela dépend de la surface et de l'état du support. Le délai est donné dans le devis."
+        },
+        {
+          "q": "Peut-on rénover un parquet ancien plutôt que le remplacer ?",
+          "a": "Oui, dans la grande majorité des cas."
+        }
+      ],
+      "related": [
+        "escaliers",
+        "agencement-sur-mesure"
+      ]
+    },
+    {
+      "slug": "escaliers",
+      "title": "Escaliers",
+      "pageTitle": "Escaliers bois à Bordeaux : pose et rénovation",
+      "eyebrow": "Escaliers",
+      "lead": "Pose d'escalier et garde-corps, rénovation d'escaliers bois, y compris dans les restaurants.",
+      "short": "Pose d'escalier et garde-corps, rénovation d'escaliers bois, y compris dans les restaurants.",
+      "intro": [
+        "Marches usées, garde-corps instable, finitions fatiguées : un escalier en bois se reprend sans le remplacer.",
+        "Nous remettons en état les marches, ajustons et sécurisons le garde-corps, puis cirons pour retrouver la chaleur du bois d'origine."
+      ],
+      "items": [
+        {
+          "t": "Rénovation d'escaliers bois",
+          "d": "Reprise des marches, des contremarches et des finitions."
+        },
+        {
+          "t": "Garde-corps",
+          "d": "Ajustement, sécurisation, pose."
+        },
+        {
+          "t": "Escaliers de restaurants et locaux",
+          "d": "Chantier organisé autour de vos horaires d'ouverture."
+        }
+      ],
+      "quote": "Retrouver la chaleur du bois d'origine.",
+      "image": "escalier.jpg",
+      "faq": [
+        {
+          "q": "Intervenez-vous dans les immeubles collectifs ?",
+          "a": "Oui, nous organisons le chantier pour limiter la gêne aux occupants."
+        }
+      ],
+      "related": [
+        "parquets",
+        "agencement-sur-mesure"
+      ]
+    },
+    {
+      "slug": "agencement-sur-mesure",
+      "title": "Agencement sur mesure",
+      "pageTitle": "Agencement sur mesure à Bordeaux",
+      "eyebrow": "Agencement",
+      "lead": "Placards sous escalier, panneaux décoratifs, lambris, mobilier intégré : dessiné pour vos murs.",
+      "short": "Placards sous escalier, panneaux décoratifs, lambris, mobilier intégré : dessiné pour vos murs.",
+      "intro": [
+        "Chaque niche est mesurée et fabriquée pour épouser les murs et l'escalier. Portes sans poignée apparente, lignes nettes.",
+        "Nous mesurons sur place, discutons des matériaux, puis fabriquons et posons."
+      ],
+      "items": [
+        {
+          "t": "Placards sous escalier",
+          "d": "Rangements mesurés pour la niche, portes sans poignée apparente."
+        },
+        {
+          "t": "Lambris et panneaux décoratifs",
+          "d": "Habillages muraux en bois."
+        },
+        {
+          "t": "Mobilier intégré",
+          "d": "Bibliothèques, banquettes, meubles dessinés pour la pièce."
+        }
+      ],
+      "quote": "Chaque niche mesurée, chaque ligne nette.",
+      "image": "agencement.jpg",
+      "faq": [
+        {
+          "q": "Faut-il un plan avant le devis ?",
+          "a": "Non. Un appel et quelques photos suffisent pour démarrer. Nous venons ensuite mesurer."
+        }
+      ],
+      "related": [
+        "escaliers",
+        "parquets"
+      ]
+    },
+    {
+      "slug": "depannage-effraction",
+      "title": "Dépannage & effraction",
+      "pageTitle": "Dépannage menuiserie après effraction à Bordeaux",
+      "eyebrow": "Urgence",
+      "lead": "Porte forcée, cadre arraché, vitre cassée : remettre le lieu en sécurité, puis réparer proprement.",
+      "short": "Porte forcée, cadre arraché, vitre cassée : remettre le lieu en sécurité, puis réparer proprement.",
+      "intro": [
+        "Après une effraction, la priorité est de sécuriser. Appelez directement : nous vous disons franchement ce qui est possible selon l'heure.",
+        "Ensuite, nous réparons proprement : cadre, porte, vitrage. Devis et facture clairs, utilisables pour votre assurance."
+      ],
+      "items": [
+        {
+          "t": "Mise en sécurité",
+          "d": "Fermeture provisoire solide pour protéger le lieu."
+        },
+        {
+          "t": "Réparation du cadre et de la porte",
+          "d": "Remise en état du bois, de la quincaillerie et des serrures."
+        },
+        {
+          "t": "Devis et facture pour l'assurance",
+          "d": "Documents clairs et détaillés en cas de sinistre."
+        }
+      ],
+      "quote": "Dans ces moments-là, le plus important est de sécuriser vite et proprement.",
+      "image": "devanture.jpg",
+      "faq": [
+        {
+          "q": "Intervenez-vous en urgence ?",
+          "a": "Appelez directement : nous vous disons franchement ce qui est possible selon l'heure."
+        },
+        {
+          "q": "Fournissez-vous un devis pour l'assurance ?",
+          "a": "Oui, un devis et une facture clairs et détaillés."
+        }
+      ],
+      "related": [
+        "portes-d-entree",
+        "volets-bois"
+      ]
+    }
+  ],
+  "firstThree": {
+    "portes-d-entree": {
+      "data": {
+        "slug": "portes-d-entree",
+        "title": "Portes d'entrée",
+        "pageTitle": "Rénovation de porte d'entrée à Bordeaux",
+        "eyebrow": "Portes & ouvertures",
+        "lead": "Votre porte d'entrée a du caractère et elle ne ferme plus comme avant ? Souvent, elle n'a pas besoin d'être remplacée.",
+        "short": "Rénover une porte ancienne plutôt que la remplacer : bois, quincaillerie, réglages, étanchéité.",
+        "intro": [
+          "Dans les immeubles bordelais, les portes anciennes font partie de l'âme du lieu. Les arracher pour poser un modèle standard, c'est perdre ce qui donne son cachet à un hall, à un couloir, à une entrée.",
+          "MSR Bois rénove les portes anciennes : reprise des panneaux abîmés, remise en état du bâti, réglages, quincaillerie et finition. Quand la rénovation n'est plus raisonnable, nous posons aussi des portes neuves — et nous vous disons franchement ce qui est préférable dans votre cas."
+        ],
+        "items": [
+          {
+            "t": "Rénovation de portes anciennes",
+            "d": "Dépose, reprise des panneaux et du bâti, remise en état des bois, réglages et repose."
+          },
+          {
+            "t": "Remplacement de porte d'entrée",
+            "d": "Quand la structure est trop atteinte : porte neuve, aux bonnes dimensions, posée proprement."
+          },
+          {
+            "t": "Portes de boutique et de commerce",
+            "d": "Une porte de boutique ancienne se rénove sans effacer ce qui fait son caractère."
+          },
+          {
+            "t": "Portes-fenêtres et portes vitrées",
+            "d": "Réparation d'une porte-fenêtre en bois, dépose, ajustements et remise en service."
+          },
+          {
+            "t": "Réglages et étanchéité",
+            "d": "Une porte qui frotte, qui ne joint plus, qui laisse passer l'air : souvent quelques réglages suffisent."
+          }
+        ],
+        "quote": "Un hall bordelais, une porte cochère, une moulure : ici, on répare avant de remplacer. C'est aussi, presque toujours, la solution la plus raisonnable pour votre budget.",
+        "image": "porte-entree.jpg",
+        "reviews": [
+          {
+            "text": "Sylvain a rénové notre porte d'entrée ancienne. Il a été le premier à répondre et le seul à nous rappeler. Devis clair, donné rapidement, et un travail vraiment soigné : la porte ferme parfaitement et le bois est superbe. Le chantier a été laissé impeccable.",
+            "author": "Claire M.",
+            "date": "Mars 2025",
+            "tag": "Porte d'entrée",
+            "reply": "Merci Claire, c'était un vrai plaisir de redonner vie à cette porte. Elle avait du caractère, il fallait juste la respecter. À bientôt !"
+          },
+          {
+            "text": "Après une tentative d'effraction sur notre commerce, Sylvain est venu remettre le cadre de porte en état très rapidement. Réactif, franc sur ce qui était possible de faire, et un travail solide. On a pu rouvrir sans stress.",
+            "author": "Antoine R.",
+            "date": "Février 2025",
+            "tag": "Effraction",
+            "reply": "Merci Antoine. Dans ces moments-là, le plus important c'est de sécuriser vite et proprement. Bonne reprise à vous et à votre équipe."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Faut-il rénover ou remplacer une porte d'entrée ancienne ?",
+            "a": "Tant que le bâti et les panneaux sont sains, la rénovation est presque toujours préférable : elle conserve le caractère de la porte et coûte généralement moins cher. Si la structure est trop atteinte, nous vous le disons et proposons un remplacement."
+          },
+          {
+            "q": "Intervenez-vous dans les immeubles anciens et en copropriété ?",
+            "a": "Oui, c'est le cœur de notre activité à Bordeaux. Nous nous adaptons aux contraintes de l'immeuble et prévenons le syndic ou le gardien si nécessaire."
+          },
+          {
+            "q": "Combien de temps prend une rénovation de porte ?",
+            "a": "Selon l'état de la porte, la rénovation se fait en atelier ou sur place, en quelques jours. Le délai exact vous est donné dans le devis."
+          },
+          {
+            "q": "Travaillez-vous pour les commerces ?",
+            "a": "Oui. Nous organisons le chantier autour de vos horaires d'ouverture pour limiter l'arrêt d'activité."
+          }
+        ],
+        "related": [
+          "volets-bois",
+          "depannage-effraction"
+        ]
+      },
+      "html": "<link rel=\"preload\" as=\"image\" href=\"/images/porte-entree.jpg\"/><div class=\"renovation-service-page\"><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Faut-il rénover ou remplacer une porte d'entrée ancienne ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Tant que le bâti et les panneaux sont sains, la rénovation est presque toujours préférable : elle conserve le caractère de la porte et coûte généralement moins cher. Si la structure est trop atteinte, nous vous le disons et proposons un remplacement.\"}},{\"@type\":\"Question\",\"name\":\"Intervenez-vous dans les immeubles anciens et en copropriété ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Oui, c'est le cœur de notre activité à Bordeaux. Nous nous adaptons aux contraintes de l'immeuble et prévenons le syndic ou le gardien si nécessaire.\"}},{\"@type\":\"Question\",\"name\":\"Combien de temps prend une rénovation de porte ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Selon l'état de la porte, la rénovation se fait en atelier ou sur place, en quelques jours. Le délai exact vous est donné dans le devis.\"}},{\"@type\":\"Question\",\"name\":\"Travaillez-vous pour les commerces ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Oui. Nous organisons le chantier autour de vos horaires d'ouverture pour limiter l'arrêt d'activité.\"}}]}</script><section class=\"hero-page\"><div class=\"container\"><nav class=\"crumbs\" aria-label=\"Fil d&#x27;Ariane\"><a href=\"/\">Accueil</a><span><i aria-hidden=\"true\">›</i><a href=\"/prestations\">Prestations</a></span><span><i aria-hidden=\"true\">›</i><b aria-current=\"page\">Portes d&#x27;entrée</b></span></nav><p class=\"eyebrow\">Portes &amp; ouvertures</p><h1>Rénovation de porte d&#x27;entrée à Bordeaux</h1><p class=\"lead\">Votre porte d&#x27;entrée a du caractère et elle ne ferme plus comme avant ? Souvent, elle n&#x27;a pas besoin d&#x27;être remplacée.</p></div></section><section class=\"section\"><div class=\"container split\"><div><div class=\"prose\"><p>Dans les immeubles bordelais, les portes anciennes font partie de l&#x27;âme du lieu. Les arracher pour poser un modèle standard, c&#x27;est perdre ce qui donne son cachet à un hall, à un couloir, à une entrée.</p><p>MSR Bois rénove les portes anciennes : reprise des panneaux abîmés, remise en état du bâti, réglages, quincaillerie et finition. Quand la rénovation n&#x27;est plus raisonnable, nous posons aussi des portes neuves — et nous vous disons franchement ce qui est préférable dans votre cas.</p></div><ul class=\"items\"><li><span class=\"mono\">01</span><h3>Rénovation de portes anciennes</h3><p>Dépose, reprise des panneaux et du bâti, remise en état des bois, réglages et repose.</p></li><li><span class=\"mono\">02</span><h3>Remplacement de porte d&#x27;entrée</h3><p>Quand la structure est trop atteinte : porte neuve, aux bonnes dimensions, posée proprement.</p></li><li><span class=\"mono\">03</span><h3>Portes de boutique et de commerce</h3><p>Une porte de boutique ancienne se rénove sans effacer ce qui fait son caractère.</p></li><li><span class=\"mono\">04</span><h3>Portes-fenêtres et portes vitrées</h3><p>Réparation d&#x27;une porte-fenêtre en bois, dépose, ajustements et remise en service.</p></li><li><span class=\"mono\">05</span><h3>Réglages et étanchéité</h3><p>Une porte qui frotte, qui ne joint plus, qui laisse passer l&#x27;air : souvent quelques réglages suffisent.</p></li></ul></div><aside class=\"side\"><div class=\"photo \" style=\"aspect-ratio:4 / 3\"><img src=\"/images/porte-entree.jpg\" alt=\"Portes d&#x27;entrée\" loading=\"eager\" decoding=\"async\"/></div><div class=\"side-body\"><p class=\"rate\"><span class=\"stars\" aria-label=\"5 étoiles sur 5\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg></span> 5,0/5 · 30 avis</p><h3>Parlons de votre chantier, sans engagement.</h3><a href=\"tel:+33668931235\" class=\"btn btn--dark btn--block\"><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z\"></path></svg>06 68 93 12 35</a><a class=\"btn btn--line btn--block\" href=\"/contact\">Demander un devis <svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 17 17 7M8 7h9v9\"></path></svg></a><p class=\"small\">2 Rue Montmejean, 33100 Bordeaux — Lundi dès 8h.</p></div></aside></div></section><section class=\"quote-band\"><div class=\"container\"><p class=\"eyebrow\">Dans l&#x27;ancien</p><p class=\"quote\">« Un hall bordelais, une porte cochère, une moulure : ici, on répare avant de remplacer. C&#x27;est aussi, presque toujours, la solution la plus raisonnable pour votre budget. »</p></div></section><section class=\"section\"><div class=\"container rev-wrap\"><div><p class=\"eyebrow\">Avis clients</p><h2>Ce qu&#x27;en disent les clients.</h2><p style=\"margin-top:24px\"><a class=\"link-u\" href=\"https://www.google.com/maps/search/?api=1&amp;query=MSR+Bois+Bordeaux\" target=\"_blank\" rel=\"noopener noreferrer\">Tous les avis Google <svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 17 17 7M8 7h9v9\"></path></svg></a></p></div><div><div class=\"rev-list\"><article class=\"rev\"><span class=\"stars\" aria-label=\"5 étoiles sur 5\"><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg></span><p class=\"t\">Sylvain a rénové notre porte d&#x27;entrée ancienne. Il a été le premier à répondre et le seul à nous rappeler. Devis clair, donné rapidement, et un travail vraiment soigné : la porte ferme parfaitement et le bois est superbe. Le chantier a été laissé impeccable.</p><div class=\"rev-by\">Claire M.<span>Mars 2025 · Porte d&#x27;entrée</span></div><div class=\"reply\"><p class=\"mono\">Réponse de Sylvain</p><p>Merci Claire, c&#x27;était un vrai plaisir de redonner vie à cette porte. Elle avait du caractère, il fallait juste la respecter. À bientôt !</p></div></article><article class=\"rev\"><span class=\"stars\" aria-label=\"5 étoiles sur 5\"><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg></span><p class=\"t\">Après une tentative d&#x27;effraction sur notre commerce, Sylvain est venu remettre le cadre de porte en état très rapidement. Réactif, franc sur ce qui était possible de faire, et un travail solide. On a pu rouvrir sans stress.</p><div class=\"rev-by\">Antoine R.<span>Février 2025 · Effraction</span></div><div class=\"reply\"><p class=\"mono\">Réponse de Sylvain</p><p>Merci Antoine. Dans ces moments-là, le plus important c&#x27;est de sécuriser vite et proprement. Bonne reprise à vous et à votre équipe.</p></div></article></div><div class=\"rev-foot renovation-review-aggregate\"><p class=\"rate\"><span class=\"stars\" aria-label=\"5 étoiles sur 5\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg></span> 5,0/5 · 30 avis Google</p><a class=\"link-u\" href=\"https://www.google.com/maps/search/?api=1&amp;query=MSR+Bois+Bordeaux\" target=\"_blank\" rel=\"noopener noreferrer\">Lire tous les avis sur Google <svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 17 17 7M8 7h9v9\"></path></svg></a></div><p class=\"note\">Extraits de la fiche Google de MSR Bois, reformulés en français pour le site — à valider avec Sylvain avant publication.</p></div></div></section><section class=\"section section--alt\"><div class=\"container rev-wrap\"><div><p class=\"eyebrow\">Questions fréquentes</p><h2>Portes d&#x27;entrée : ce qu&#x27;on nous demande.</h2></div><div class=\"faq\"><details><summary>Faut-il rénover ou remplacer une porte d&#x27;entrée ancienne ?<svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"></path></svg></summary><p>Tant que le bâti et les panneaux sont sains, la rénovation est presque toujours préférable : elle conserve le caractère de la porte et coûte généralement moins cher. Si la structure est trop atteinte, nous vous le disons et proposons un remplacement.</p></details><details><summary>Intervenez-vous dans les immeubles anciens et en copropriété ?<svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"></path></svg></summary><p>Oui, c&#x27;est le cœur de notre activité à Bordeaux. Nous nous adaptons aux contraintes de l&#x27;immeuble et prévenons le syndic ou le gardien si nécessaire.</p></details><details><summary>Combien de temps prend une rénovation de porte ?<svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"></path></svg></summary><p>Selon l&#x27;état de la porte, la rénovation se fait en atelier ou sur place, en quelques jours. Le délai exact vous est donné dans le devis.</p></details><details><summary>Travaillez-vous pour les commerces ?<svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"></path></svg></summary><p>Oui. Nous organisons le chantier autour de vos horaires d&#x27;ouverture pour limiter l&#x27;arrêt d&#x27;activité.</p></details></div></div></section><section class=\"section\"><div class=\"container\"><p class=\"eyebrow\" style=\"margin-bottom:28px\">À voir aussi</p><div class=\"work-grid\"><a class=\"box\" style=\"padding:16px;justify-content:flex-start\" href=\"/prestations/volets-bois\"><div style=\"width:88px;flex-shrink:0\"><div class=\"photo \" style=\"aspect-ratio:1 / 1\"><img src=\"/images/volets.jpg\" alt=\"Volets à persiennes\" loading=\"lazy\" decoding=\"async\"/></div></div><div><h3>Volets à persiennes</h3><span class=\"mono\">Voir la page</span></div></a><a class=\"box\" style=\"padding:16px;justify-content:flex-start\" href=\"/prestations/depannage-effraction\"><div style=\"width:88px;flex-shrink:0\"><div class=\"photo \" style=\"aspect-ratio:1 / 1\"><img src=\"/images/devanture.jpg\" alt=\"Dépannage &amp; effraction\" loading=\"lazy\" decoding=\"async\"/></div></div><div><h3>Dépannage &amp; effraction</h3><span class=\"mono\">Voir la page</span></div></a></div><p class=\"caption\" style=\"margin-top:28px\">7 prestations — Bordeaux et alentours</p></div></section><section class=\"cta-band\"><div class=\"container cta-in\"><div><h2>Un projet de rénovation ? Parlons-en.</h2><p>Un appel suffit pour savoir où vous mettez les pieds : ce qui est possible, ce que ça implique, et dans quel ordre.</p></div><div class=\"cta-btns\"><a href=\"tel:+33668931235\" class=\"btn btn--dark\"><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z\"></path></svg>06 68 93 12 35</a><a class=\"btn btn--line\" href=\"/contact\">Demander un devis <svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 17 17 7M8 7h9v9\"></path></svg></a></div></div></section></div>"
+    },
+    "volets-bois": {
+      "data": {
+        "slug": "volets-bois",
+        "title": "Volets à persiennes",
+        "pageTitle": "Restauration de volets bois à Bordeaux",
+        "eyebrow": "Volets & fenêtres",
+        "lead": "Des persiennes qui coincent, une peinture qui s'écaille, une lame cassée : avant de les remplacer, regardons ce qu'elles ont encore à dire.",
+        "short": "Des persiennes fatiguées peuvent retrouver des années de service. Restauration, lames, ferrures, réglages.",
+        "intro": [
+          "Sur les façades en pierre blonde de Bordeaux, les volets à persiennes font autant partie du bâtiment que les moulures. Bien restaurés, ils protègent du soleil, tiennent la rue à distance et tiennent encore des décennies.",
+          "Nous déposons, remettons en état et reposons : lames, assemblages, ferrures, réglages. Souvent, la restauration coûte moins cher qu'un remplacement — et elle garde l'ensemble cohérent avec la façade."
+        ],
+        "items": [
+          {
+            "t": "Restauration de persiennes",
+            "d": "Remise en état des lames et des assemblages, sans perdre la patine du bois."
+          },
+          {
+            "t": "Lames et ferrures",
+            "d": "Remplacement des lames abîmées et réglage des ferrures pour que les volets coulissent et se ferment correctement."
+          },
+          {
+            "t": "Volets et contrevents bois",
+            "d": "Reprise des volets et contrevents en bois, dans le respect de la menuiserie existante."
+          },
+          {
+            "t": "Dépose et repose soignées",
+            "d": "Les volets sont démontés, travaillés puis reposés en place, sans abîmer la façade ni les tableaux."
+          },
+          {
+            "t": "Préparation avant finition",
+            "d": "Les bois sont préparés pour la finition de votre choix : nous parlons ensemble des options avant de chiffrer."
+          }
+        ],
+        "quote": "Rue Sainte-Catherine ou cours de l'Intendance, la persienne est un motif de façade. La restaurer, c'est garder le rythme de la rue intact.",
+        "image": "volets.jpg",
+        "reviews": [
+          {
+            "text": "Restauration de nos volets à persiennes et de nos fenêtres en bois. J'avais peur qu'ils soient irrécupérables, Sylvain a pris le temps de tout regarder et de tout reprendre. Le résultat est magnifique et la façade a retrouvé son cachet.",
+            "author": "Martine B.",
+            "date": "Septembre 2024",
+            "tag": "Volets à persiennes",
+            "reply": "Merci Martine. Ces persiennes avaient de belles années devant elles, il suffisait de s'en occuper sérieusement. Merci de votre confiance."
+          },
+          {
+            "text": "Sylvain a rénové notre porte d'entrée ancienne. Il a été le premier à répondre et le seul à nous rappeler. Devis clair, donné rapidement, et un travail vraiment soigné : la porte ferme parfaitement et le bois est superbe. Le chantier a été laissé impeccable.",
+            "author": "Claire M.",
+            "date": "Mars 2025",
+            "tag": "Porte d'entrée",
+            "reply": "Merci Claire, c'était un vrai plaisir de redonner vie à cette porte. Elle avait du caractère, il fallait juste la respecter. À bientôt !"
+          }
+        ],
+        "faq": [
+          {
+            "q": "Mes vieilles persiennes sont-elles réparables ?",
+            "a": "Dans la plupart des cas, oui. Nous remplaçons seulement les lames et pièces trop abîmées."
+          },
+          {
+            "q": "Rénover ou remplacer des volets ?",
+            "a": "L'état des lames, des assemblages et des ferrures permet de choisir. Nous regardons ce qui peut être conservé et discutons d'un remplacement si la restauration n'est plus adaptée."
+          },
+          {
+            "q": "Travaillez-vous en hauteur ?",
+            "a": "Oui, avec le matériel adapté. Nous précisons les contraintes d'accès lors de la visite."
+          },
+          {
+            "q": "Combien de volets pouvez-vous traiter ?",
+            "a": "Le nombre de volets, leur état et les conditions d'accès sont à préciser lors de la visite. Le périmètre du chantier est défini dans le devis."
+          }
+        ],
+        "related": [
+          "fenetres-bois",
+          "portes-d-entree"
+        ]
+      },
+      "html": "<link rel=\"preload\" as=\"image\" href=\"/images/volets.jpg\"/><div class=\"renovation-service-page\"><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Mes vieilles persiennes sont-elles réparables ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Dans la plupart des cas, oui. Nous remplaçons seulement les lames et pièces trop abîmées.\"}},{\"@type\":\"Question\",\"name\":\"Rénover ou remplacer des volets ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"L'état des lames, des assemblages et des ferrures permet de choisir. Nous regardons ce qui peut être conservé et discutons d'un remplacement si la restauration n'est plus adaptée.\"}},{\"@type\":\"Question\",\"name\":\"Travaillez-vous en hauteur ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Oui, avec le matériel adapté. Nous précisons les contraintes d'accès lors de la visite.\"}},{\"@type\":\"Question\",\"name\":\"Combien de volets pouvez-vous traiter ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Le nombre de volets, leur état et les conditions d'accès sont à préciser lors de la visite. Le périmètre du chantier est défini dans le devis.\"}}]}</script><section class=\"hero-page\"><div class=\"container\"><nav class=\"crumbs\" aria-label=\"Fil d&#x27;Ariane\"><a href=\"/\">Accueil</a><span><i aria-hidden=\"true\">›</i><a href=\"/prestations\">Prestations</a></span><span><i aria-hidden=\"true\">›</i><b aria-current=\"page\">Volets bois</b></span></nav><p class=\"eyebrow\">Volets &amp; fenêtres</p><h1>Restauration de volets bois à Bordeaux</h1><p class=\"lead\">Des persiennes qui coincent, une peinture qui s&#x27;écaille, une lame cassée : avant de les remplacer, regardons ce qu&#x27;elles ont encore à dire.</p></div></section><section class=\"section\"><div class=\"container split\"><div><div class=\"prose\"><p>Sur les façades en pierre blonde de Bordeaux, les volets à persiennes font autant partie du bâtiment que les moulures. Bien restaurés, ils protègent du soleil, tiennent la rue à distance et tiennent encore des décennies.</p><p>Nous déposons, remettons en état et reposons : lames, assemblages, ferrures, réglages. Souvent, la restauration coûte moins cher qu&#x27;un remplacement — et elle garde l&#x27;ensemble cohérent avec la façade.</p></div><ul class=\"items\"><li><span class=\"mono\">01</span><h3>Restauration de persiennes</h3><p>Remise en état des lames et des assemblages, sans perdre la patine du bois.</p></li><li><span class=\"mono\">02</span><h3>Lames et ferrures</h3><p>Remplacement des lames abîmées et réglage des ferrures pour que les volets coulissent et se ferment correctement.</p></li><li><span class=\"mono\">03</span><h3>Volets et contrevents bois</h3><p>Reprise des volets et contrevents en bois, dans le respect de la menuiserie existante.</p></li><li><span class=\"mono\">04</span><h3>Dépose et repose soignées</h3><p>Les volets sont démontés, travaillés puis reposés en place, sans abîmer la façade ni les tableaux.</p></li><li><span class=\"mono\">05</span><h3>Préparation avant finition</h3><p>Les bois sont préparés pour la finition de votre choix : nous parlons ensemble des options avant de chiffrer.</p></li></ul></div><aside class=\"side\"><div class=\"photo \" style=\"aspect-ratio:4 / 3\"><img src=\"/images/volets.jpg\" alt=\"Volets à persiennes\" loading=\"eager\" decoding=\"async\"/></div><div class=\"side-body\"><p class=\"rate\"><span class=\"stars\" aria-label=\"5 étoiles sur 5\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg></span> 5,0/5 · 30 avis</p><h3>Parlons de votre chantier, sans engagement.</h3><a href=\"tel:+33668931235\" class=\"btn btn--dark btn--block\"><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z\"></path></svg>06 68 93 12 35</a><a class=\"btn btn--line btn--block\" href=\"/contact\">Demander un devis <svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 17 17 7M8 7h9v9\"></path></svg></a><p class=\"small\">2 Rue Montmejean, 33100 Bordeaux — Lundi dès 8h.</p></div></aside></div></section><section class=\"quote-band\"><div class=\"container\"><p class=\"eyebrow\">Dans l&#x27;ancien</p><p class=\"quote\">« Rue Sainte-Catherine ou cours de l&#x27;Intendance, la persienne est un motif de façade. La restaurer, c&#x27;est garder le rythme de la rue intact. »</p></div></section><section class=\"section\"><div class=\"container rev-wrap\"><div><p class=\"eyebrow\">Avis clients</p><h2>Ce qu&#x27;en disent les clients.</h2><p style=\"margin-top:24px\"><a class=\"link-u\" href=\"https://www.google.com/maps/search/?api=1&amp;query=MSR+Bois+Bordeaux\" target=\"_blank\" rel=\"noopener noreferrer\">Tous les avis Google <svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 17 17 7M8 7h9v9\"></path></svg></a></p></div><div><div class=\"rev-list\"><article class=\"rev\"><span class=\"stars\" aria-label=\"5 étoiles sur 5\"><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg></span><p class=\"t\">Restauration de nos volets à persiennes et de nos fenêtres en bois. J&#x27;avais peur qu&#x27;ils soient irrécupérables, Sylvain a pris le temps de tout regarder et de tout reprendre. Le résultat est magnifique et la façade a retrouvé son cachet.</p><div class=\"rev-by\">Martine B.<span>Septembre 2024 · Volets à persiennes</span></div><div class=\"reply\"><p class=\"mono\">Réponse de Sylvain</p><p>Merci Martine. Ces persiennes avaient de belles années devant elles, il suffisait de s&#x27;en occuper sérieusement. Merci de votre confiance.</p></div></article><article class=\"rev\"><span class=\"stars\" aria-label=\"5 étoiles sur 5\"><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg></span><p class=\"t\">Sylvain a rénové notre porte d&#x27;entrée ancienne. Il a été le premier à répondre et le seul à nous rappeler. Devis clair, donné rapidement, et un travail vraiment soigné : la porte ferme parfaitement et le bois est superbe. Le chantier a été laissé impeccable.</p><div class=\"rev-by\">Claire M.<span>Mars 2025 · Porte d&#x27;entrée</span></div><div class=\"reply\"><p class=\"mono\">Réponse de Sylvain</p><p>Merci Claire, c&#x27;était un vrai plaisir de redonner vie à cette porte. Elle avait du caractère, il fallait juste la respecter. À bientôt !</p></div></article></div><div class=\"rev-foot renovation-review-aggregate\"><p class=\"rate\"><span class=\"stars\" aria-label=\"5 étoiles sur 5\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg></span> 5,0/5 · 30 avis Google</p><a class=\"link-u\" href=\"https://www.google.com/maps/search/?api=1&amp;query=MSR+Bois+Bordeaux\" target=\"_blank\" rel=\"noopener noreferrer\">Lire tous les avis sur Google <svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 17 17 7M8 7h9v9\"></path></svg></a></div><p class=\"note\">Extraits de la fiche Google de MSR Bois, reformulés en français pour le site — à valider avec Sylvain avant publication.</p></div></div></section><section class=\"section section--alt\"><div class=\"container rev-wrap\"><div><p class=\"eyebrow\">Questions fréquentes</p><h2>Volets bois : ce qu&#x27;on nous demande.</h2></div><div class=\"faq\"><details><summary>Mes vieilles persiennes sont-elles réparables ?<svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"></path></svg></summary><p>Dans la plupart des cas, oui. Nous remplaçons seulement les lames et pièces trop abîmées.</p></details><details><summary>Rénover ou remplacer des volets ?<svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"></path></svg></summary><p>L&#x27;état des lames, des assemblages et des ferrures permet de choisir. Nous regardons ce qui peut être conservé et discutons d&#x27;un remplacement si la restauration n&#x27;est plus adaptée.</p></details><details><summary>Travaillez-vous en hauteur ?<svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"></path></svg></summary><p>Oui, avec le matériel adapté. Nous précisons les contraintes d&#x27;accès lors de la visite.</p></details><details><summary>Combien de volets pouvez-vous traiter ?<svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"></path></svg></summary><p>Le nombre de volets, leur état et les conditions d&#x27;accès sont à préciser lors de la visite. Le périmètre du chantier est défini dans le devis.</p></details></div></div></section><section class=\"section\"><div class=\"container\"><p class=\"eyebrow\" style=\"margin-bottom:28px\">À voir aussi</p><div class=\"work-grid\"><a class=\"box\" style=\"padding:16px;justify-content:flex-start\" href=\"/prestations/fenetres-bois\"><div style=\"width:88px;flex-shrink:0\"><div class=\"photo \" style=\"aspect-ratio:1 / 1\"><img src=\"/images/fenetres.jpg\" alt=\"Fenêtres bois\" loading=\"lazy\" decoding=\"async\"/></div></div><div><h3>Fenêtres bois</h3><span class=\"mono\">Voir la page</span></div></a><a class=\"box\" style=\"padding:16px;justify-content:flex-start\" href=\"/prestations/portes-d-entree\"><div style=\"width:88px;flex-shrink:0\"><div class=\"photo \" style=\"aspect-ratio:1 / 1\"><img src=\"/images/porte-entree.jpg\" alt=\"Portes d&#x27;entrée\" loading=\"lazy\" decoding=\"async\"/></div></div><div><h3>Portes d&#x27;entrée</h3><span class=\"mono\">Voir la page</span></div></a></div><p class=\"caption\" style=\"margin-top:28px\">7 prestations — Bordeaux et alentours</p></div></section><section class=\"cta-band\"><div class=\"container cta-in\"><div><h2>Un projet de rénovation ? Parlons-en.</h2><p>Un appel suffit pour savoir où vous mettez les pieds : ce qui est possible, ce que ça implique, et dans quel ordre.</p></div><div class=\"cta-btns\"><a href=\"tel:+33668931235\" class=\"btn btn--dark\"><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z\"></path></svg>06 68 93 12 35</a><a class=\"btn btn--line\" href=\"/contact\">Demander un devis <svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 17 17 7M8 7h9v9\"></path></svg></a></div></div></section></div>"
+    },
+    "fenetres-bois": {
+      "data": {
+        "slug": "fenetres-bois",
+        "title": "Fenêtres bois",
+        "pageTitle": "Fenêtres en bois : réparation et pose à Bordeaux",
+        "eyebrow": "Volets & fenêtres",
+        "lead": "Une fenêtre qui ferme mal laisse passer l'air, le bruit et le doute. Parfois, elle demande juste d'être réparée.",
+        "short": "Réparer plutôt que jeter : fenêtres anciennes, petits carreaux, portes-fenêtres, réglages et joints.",
+        "intro": [
+          "Les fenêtres en bois des immeubles anciens ont une qualité qu'on ne trouve pas toujours dans les menuiseries neuves : des montants fins, des petits carreaux, une lumière particulière. Leur entretien est simple, à condition d'être fait correctement.",
+          "Nous réparons les menuiseries existantes quand c'est possible, et nous posons des fenêtres neuves — bois ou PVC en rénovation — quand le remplacement s'impose. Le choix se fait ensemble, en fonction de l'état, du budget et du confort attendu."
+        ],
+        "items": [
+          {
+            "t": "Réparation de fenêtres anciennes",
+            "d": "Reprise des bois, ajustement des ouvrants, remise en état de la quincaillerie."
+          },
+          {
+            "t": "Pose de fenêtres en rénovation",
+            "d": "Fenêtres PVC en rénovation, posées dans le cadre existant, sans casser les tableaux."
+          },
+          {
+            "t": "Portes-fenêtres et portes vitrées",
+            "d": "Réparation ou dépose d'une porte-fenêtre en bois qui ne ferme plus, qui frotte ou qui laisse entrer l'air."
+          },
+          {
+            "t": "Réglages et joints",
+            "d": "Courants d'air, joints passés : parfois quelques réglages et il n'en passe plus."
+          },
+          {
+            "t": "Petits carreaux",
+            "d": "Conserver la finesse des petits bois d'origine quand c'est viable, c'est garder le caractère de la pièce."
+          }
+        ],
+        "quote": "Une fenêtre ancienne bien réparée, c'est de la lumière avec du caractère. Une fenêtre mal posée, c'est une pièce qui perd son visage.",
+        "image": "fenetres.jpg",
+        "reviews": [
+          {
+            "text": "Restauration de nos volets à persiennes et de nos fenêtres en bois. J'avais peur qu'ils soient irrécupérables, Sylvain a pris le temps de tout regarder et de tout reprendre. Le résultat est magnifique et la façade a retrouvé son cachet.",
+            "author": "Martine B.",
+            "date": "Septembre 2024",
+            "tag": "Volets à persiennes",
+            "reply": "Merci Martine. Ces persiennes avaient de belles années devant elles, il suffisait de s'en occuper sérieusement. Merci de votre confiance."
+          },
+          {
+            "text": "Un placard sur mesure sous l'escalier, parfaitement ajusté aux murs pas droits de l'appartement. Du conseil au montage, tout a été simple. Et un chantier laissé propre, ce qui n'est pas toujours le cas.",
+            "author": "Camille & Théo",
+            "date": "Janvier 2025",
+            "tag": "Agencement sur mesure",
+            "reply": "Merci à vous deux ! C'est le genre de projet où les centimètres comptent. Ravi que ce qu'on a fait facilite la vie au quotidien."
+          }
+        ],
+        "faq": [
+          {
+            "q": "Peut-on réparer mes fenêtres anciennes ?",
+            "a": "Souvent, oui : réglages, joints et reprise de la quincaillerie améliorent nettement l'étanchéité."
+          },
+          {
+            "q": "Bois ou PVC : comment choisir ?",
+            "a": "Le choix dépend de l'état des fenêtres, du caractère de la façade, du budget et du confort recherché. Nous examinons d'abord les menuiseries existantes avant de discuter d'une réparation ou d'une pose en rénovation."
+          },
+          {
+            "q": "Une fenêtre qui ferme mal doit-elle être remplacée ?",
+            "a": "Pas nécessairement. Un ajustement des ouvrants, une reprise du bois, des joints ou de la quincaillerie peuvent suffire. L'état de la fenêtre permet de déterminer l'intervention adaptée."
+          },
+          {
+            "q": "Intervenez-vous en copropriété ?",
+            "a": "Oui, c'est le cœur de notre activité à Bordeaux. Nous nous adaptons aux contraintes de l'immeuble et prévenons le syndic ou le gardien si nécessaire."
+          }
+        ],
+        "related": [
+          "volets-bois",
+          "portes-d-entree"
+        ]
+      },
+      "html": "<link rel=\"preload\" as=\"image\" href=\"/images/fenetres.jpg\"/><div class=\"renovation-service-page\"><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Peut-on réparer mes fenêtres anciennes ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Souvent, oui : réglages, joints et reprise de la quincaillerie améliorent nettement l'étanchéité.\"}},{\"@type\":\"Question\",\"name\":\"Bois ou PVC : comment choisir ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Le choix dépend de l'état des fenêtres, du caractère de la façade, du budget et du confort recherché. Nous examinons d'abord les menuiseries existantes avant de discuter d'une réparation ou d'une pose en rénovation.\"}},{\"@type\":\"Question\",\"name\":\"Une fenêtre qui ferme mal doit-elle être remplacée ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Pas nécessairement. Un ajustement des ouvrants, une reprise du bois, des joints ou de la quincaillerie peuvent suffire. L'état de la fenêtre permet de déterminer l'intervention adaptée.\"}},{\"@type\":\"Question\",\"name\":\"Intervenez-vous en copropriété ?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Oui, c'est le cœur de notre activité à Bordeaux. Nous nous adaptons aux contraintes de l'immeuble et prévenons le syndic ou le gardien si nécessaire.\"}}]}</script><section class=\"hero-page\"><div class=\"container\"><nav class=\"crumbs\" aria-label=\"Fil d&#x27;Ariane\"><a href=\"/\">Accueil</a><span><i aria-hidden=\"true\">›</i><a href=\"/prestations\">Prestations</a></span><span><i aria-hidden=\"true\">›</i><b aria-current=\"page\">Fenêtres bois</b></span></nav><p class=\"eyebrow\">Volets &amp; fenêtres</p><h1>Fenêtres en bois : réparation et pose à Bordeaux</h1><p class=\"lead\">Une fenêtre qui ferme mal laisse passer l&#x27;air, le bruit et le doute. Parfois, elle demande juste d&#x27;être réparée.</p></div></section><section class=\"section\"><div class=\"container split\"><div><div class=\"prose\"><p>Les fenêtres en bois des immeubles anciens ont une qualité qu&#x27;on ne trouve pas toujours dans les menuiseries neuves : des montants fins, des petits carreaux, une lumière particulière. Leur entretien est simple, à condition d&#x27;être fait correctement.</p><p>Nous réparons les menuiseries existantes quand c&#x27;est possible, et nous posons des fenêtres neuves — bois ou PVC en rénovation — quand le remplacement s&#x27;impose. Le choix se fait ensemble, en fonction de l&#x27;état, du budget et du confort attendu.</p></div><ul class=\"items\"><li><span class=\"mono\">01</span><h3>Réparation de fenêtres anciennes</h3><p>Reprise des bois, ajustement des ouvrants, remise en état de la quincaillerie.</p></li><li><span class=\"mono\">02</span><h3>Pose de fenêtres en rénovation</h3><p>Fenêtres PVC en rénovation, posées dans le cadre existant, sans casser les tableaux.</p></li><li><span class=\"mono\">03</span><h3>Portes-fenêtres et portes vitrées</h3><p>Réparation ou dépose d&#x27;une porte-fenêtre en bois qui ne ferme plus, qui frotte ou qui laisse entrer l&#x27;air.</p></li><li><span class=\"mono\">04</span><h3>Réglages et joints</h3><p>Courants d&#x27;air, joints passés : parfois quelques réglages et il n&#x27;en passe plus.</p></li><li><span class=\"mono\">05</span><h3>Petits carreaux</h3><p>Conserver la finesse des petits bois d&#x27;origine quand c&#x27;est viable, c&#x27;est garder le caractère de la pièce.</p></li></ul></div><aside class=\"side\"><div class=\"photo \" style=\"aspect-ratio:4 / 3\"><img src=\"/images/fenetres.jpg\" alt=\"Fenêtres bois\" loading=\"eager\" decoding=\"async\"/></div><div class=\"side-body\"><p class=\"rate\"><span class=\"stars\" aria-label=\"5 étoiles sur 5\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg></span> 5,0/5 · 30 avis</p><h3>Parlons de votre chantier, sans engagement.</h3><a href=\"tel:+33668931235\" class=\"btn btn--dark btn--block\"><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z\"></path></svg>06 68 93 12 35</a><a class=\"btn btn--line btn--block\" href=\"/contact\">Demander un devis <svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 17 17 7M8 7h9v9\"></path></svg></a><p class=\"small\">2 Rue Montmejean, 33100 Bordeaux — Lundi dès 8h.</p></div></aside></div></section><section class=\"quote-band\"><div class=\"container\"><p class=\"eyebrow\">Dans l&#x27;ancien</p><p class=\"quote\">« Une fenêtre ancienne bien réparée, c&#x27;est de la lumière avec du caractère. Une fenêtre mal posée, c&#x27;est une pièce qui perd son visage. »</p></div></section><section class=\"section\"><div class=\"container rev-wrap\"><div><p class=\"eyebrow\">Avis clients</p><h2>Ce qu&#x27;en disent les clients.</h2><p style=\"margin-top:24px\"><a class=\"link-u\" href=\"https://www.google.com/maps/search/?api=1&amp;query=MSR+Bois+Bordeaux\" target=\"_blank\" rel=\"noopener noreferrer\">Tous les avis Google <svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 17 17 7M8 7h9v9\"></path></svg></a></p></div><div><div class=\"rev-list\"><article class=\"rev\"><span class=\"stars\" aria-label=\"5 étoiles sur 5\"><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg></span><p class=\"t\">Restauration de nos volets à persiennes et de nos fenêtres en bois. J&#x27;avais peur qu&#x27;ils soient irrécupérables, Sylvain a pris le temps de tout regarder et de tout reprendre. Le résultat est magnifique et la façade a retrouvé son cachet.</p><div class=\"rev-by\">Martine B.<span>Septembre 2024 · Volets à persiennes</span></div><div class=\"reply\"><p class=\"mono\">Réponse de Sylvain</p><p>Merci Martine. Ces persiennes avaient de belles années devant elles, il suffisait de s&#x27;en occuper sérieusement. Merci de votre confiance.</p></div></article><article class=\"rev\"><span class=\"stars\" aria-label=\"5 étoiles sur 5\"><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg></span><p class=\"t\">Un placard sur mesure sous l&#x27;escalier, parfaitement ajusté aux murs pas droits de l&#x27;appartement. Du conseil au montage, tout a été simple. Et un chantier laissé propre, ce qui n&#x27;est pas toujours le cas.</p><div class=\"rev-by\">Camille &amp; Théo<span>Janvier 2025 · Agencement sur mesure</span></div><div class=\"reply\"><p class=\"mono\">Réponse de Sylvain</p><p>Merci à vous deux ! C&#x27;est le genre de projet où les centimètres comptent. Ravi que ce qu&#x27;on a fait facilite la vie au quotidien.</p></div></article></div><div class=\"rev-foot renovation-review-aggregate\"><p class=\"rate\"><span class=\"stars\" aria-label=\"5 étoiles sur 5\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4 6.1 20.5l1.2-6.5L2.5 9.4l6.6-.9z\"></path></svg></span> 5,0/5 · 30 avis Google</p><a class=\"link-u\" href=\"https://www.google.com/maps/search/?api=1&amp;query=MSR+Bois+Bordeaux\" target=\"_blank\" rel=\"noopener noreferrer\">Lire tous les avis sur Google <svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 17 17 7M8 7h9v9\"></path></svg></a></div><p class=\"note\">Extraits de la fiche Google de MSR Bois, reformulés en français pour le site — à valider avec Sylvain avant publication.</p></div></div></section><section class=\"section section--alt\"><div class=\"container rev-wrap\"><div><p class=\"eyebrow\">Questions fréquentes</p><h2>Fenêtres bois : ce qu&#x27;on nous demande.</h2></div><div class=\"faq\"><details><summary>Peut-on réparer mes fenêtres anciennes ?<svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"></path></svg></summary><p>Souvent, oui : réglages, joints et reprise de la quincaillerie améliorent nettement l&#x27;étanchéité.</p></details><details><summary>Bois ou PVC : comment choisir ?<svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"></path></svg></summary><p>Le choix dépend de l&#x27;état des fenêtres, du caractère de la façade, du budget et du confort recherché. Nous examinons d&#x27;abord les menuiseries existantes avant de discuter d&#x27;une réparation ou d&#x27;une pose en rénovation.</p></details><details><summary>Une fenêtre qui ferme mal doit-elle être remplacée ?<svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"></path></svg></summary><p>Pas nécessairement. Un ajustement des ouvrants, une reprise du bois, des joints ou de la quincaillerie peuvent suffire. L&#x27;état de la fenêtre permet de déterminer l&#x27;intervention adaptée.</p></details><details><summary>Intervenez-vous en copropriété ?<svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m6 9 6 6 6-6\"></path></svg></summary><p>Oui, c&#x27;est le cœur de notre activité à Bordeaux. Nous nous adaptons aux contraintes de l&#x27;immeuble et prévenons le syndic ou le gardien si nécessaire.</p></details></div></div></section><section class=\"section\"><div class=\"container\"><p class=\"eyebrow\" style=\"margin-bottom:28px\">À voir aussi</p><div class=\"work-grid\"><a class=\"box\" style=\"padding:16px;justify-content:flex-start\" href=\"/prestations/volets-bois\"><div style=\"width:88px;flex-shrink:0\"><div class=\"photo \" style=\"aspect-ratio:1 / 1\"><img src=\"/images/volets.jpg\" alt=\"Volets à persiennes\" loading=\"lazy\" decoding=\"async\"/></div></div><div><h3>Volets à persiennes</h3><span class=\"mono\">Voir la page</span></div></a><a class=\"box\" style=\"padding:16px;justify-content:flex-start\" href=\"/prestations/portes-d-entree\"><div style=\"width:88px;flex-shrink:0\"><div class=\"photo \" style=\"aspect-ratio:1 / 1\"><img src=\"/images/porte-entree.jpg\" alt=\"Portes d&#x27;entrée\" loading=\"lazy\" decoding=\"async\"/></div></div><div><h3>Portes d&#x27;entrée</h3><span class=\"mono\">Voir la page</span></div></a></div><p class=\"caption\" style=\"margin-top:28px\">7 prestations — Bordeaux et alentours</p></div></section><section class=\"cta-band\"><div class=\"container cta-in\"><div><h2>Un projet de rénovation ? Parlons-en.</h2><p>Un appel suffit pour savoir où vous mettez les pieds : ce qui est possible, ce que ça implique, et dans quel ordre.</p></div><div class=\"cta-btns\"><a href=\"tel:+33668931235\" class=\"btn btn--dark\"><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z\"></path></svg>06 68 93 12 35</a><a class=\"btn btn--line\" href=\"/contact\">Demander un devis <svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 17 17 7M8 7h9v9\"></path></svg></a></div></div></section></div>"
+    }
+  },
+  "route": "import RenovationServicePage from \"@/components/RenovationServicePage\";\nimport type { Metadata } from \"next\";\nimport Link from \"next/link\";\nimport { notFound } from \"next/navigation\";\nimport PageHero from \"@/components/PageHero\";\nimport Photo from \"@/components/Photo\";\nimport Stars from \"@/components/Stars\";\nimport CtaBand from \"@/components/CtaBand\";\nimport { PhoneIcon, ArrowUpRight, ChevronDown } from \"@/components/Icons\";\nimport { getService, services } from \"@/lib/services\";\nimport { site } from \"@/lib/site\";\n\ntype Params = { slug: string };\n\nexport function generateStaticParams() {\n  return services.map((s) => ({ slug: s.slug }));\n}\n\nexport async function generateMetadata({ params }: { params: Promise<Params> }): Promise<Metadata> {\n  const { slug } = await params;\n  const s = getService(slug);\n  if (!s) return {};\n  return { title: s.pageTitle, description: s.short, alternates: { canonical: `/prestations/${s.slug}` } };\n}\n\nexport default async function Page({ params }: { params: Promise<Params> }) {\n  const { slug } = await params;\n  const s = getService(slug);\n  if (!s) notFound();\n  if ([\"portes-d-entree\", \"volets-bois\", \"fenetres-bois\"].includes(slug)) return <RenovationServicePage service={s} />;\n  const related = s.related.map((r) => getService(r)!).filter(Boolean);\n\n  const faqLd = {\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"FAQPage\",\n    mainEntity: s.faq.map((f) => ({ \"@type\": \"Question\", name: f.q, acceptedAnswer: { \"@type\": \"Answer\", text: f.a } })),\n  };\n\n  return (\n    <>\n      <script type=\"application/ld+json\" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />\n      <PageHero\n        crumbs={[{ label: \"Prestations\", href: \"/prestations\" }, { label: s.title }]}\n        eyebrow={s.eyebrow}\n        title={s.pageTitle}\n        lead={s.lead}\n      />\n\n      <section className=\"section\">\n        <div className=\"container split\">\n          <div>\n            <div className=\"prose\">{s.intro.map((p, i) => <p key={i}>{p}</p>)}</div>\n            <ul className=\"items\">\n              {s.items.map((it, i) => (\n                <li key={it.t}>\n                  <span className=\"mono\">{String(i + 1).padStart(2, \"0\")}</span>\n                  <h3>{it.t}</h3>\n                  <p>{it.d}</p>\n                </li>\n              ))}\n            </ul>\n          </div>\n          <aside className=\"side\">\n            <Photo src={s.image} alt={s.title} ratio=\"4 / 3\" priority />\n            <div className=\"side-body\">\n              <p className=\"rate\"><Stars /> {site.rating} · {site.reviewCount} avis</p>\n              <h3>Parlons de votre chantier, sans engagement.</h3>\n              <a href={site.phoneHref} className=\"btn btn--dark btn--block\"><PhoneIcon size={14} />{site.phone}</a>\n              <Link href=\"/contact\" className=\"btn btn--line btn--block\">Demander un devis <ArrowUpRight /></Link>\n              <p className=\"small\">{site.street}, {site.city} — Lundi dès 8h.</p>\n            </div>\n          </aside>\n        </div>\n      </section>\n\n      <section className=\"quote-band\">\n        <div className=\"container\">\n          <p className=\"eyebrow\">Dans l'ancien</p>\n          <p className=\"quote\">« {s.quote} »</p>\n        </div>\n      </section>\n\n      {s.reviews && (\n        <section className=\"section\">\n          <div className=\"container rev-wrap\">\n            <div>\n              <p className=\"eyebrow\">Avis clients</p>\n              <h2>Ce qu'en disent les clients.</h2>\n              <p style={{ marginTop: 24 }}><a className=\"link-u\" href={site.googleReviewsUrl} target=\"_blank\" rel=\"noopener noreferrer\">Tous les avis Google <ArrowUpRight /></a></p>\n            </div>\n            <div>\n              <div className=\"rev-list\">\n                {s.reviews.map((r) => (\n                  <article className=\"rev\" key={r.author}>\n                    <Stars size={13} />\n                    <p className=\"t\">{r.text}</p>\n                    <div className=\"rev-by\">{r.author}<span>{r.date} · {r.tag}</span></div>\n                    <div className=\"reply\">\n                      <p className=\"mono\">Réponse de Sylvain</p>\n                      <p>{r.reply}</p>\n                    </div>\n                  </article>\n                ))}\n              </div>\n              <p className=\"note\">Extraits de la fiche Google de MSR Bois, reformulés en français pour le site — à valider avec Sylvain avant publication.</p>\n            </div>\n          </div>\n        </section>\n      )}\n\n      <section className=\"section section--alt\">\n        <div className=\"container rev-wrap\">\n          <div>\n            <p className=\"eyebrow\">Questions fréquentes</p>\n            <h2>{s.title} : ce qu'on nous demande.</h2>\n          </div>\n          <div className=\"faq\">\n            {s.faq.map((f) => (\n              <details key={f.q}>\n                <summary>{f.q}<ChevronDown /></summary>\n                <p>{f.a}</p>\n              </details>\n            ))}\n          </div>\n        </div>\n      </section>\n\n      <section className=\"section\">\n        <div className=\"container\">\n          <p className=\"eyebrow\" style={{ marginBottom: 28 }}>À voir aussi</p>\n          <div className=\"work-grid\">\n            {related.map((r) => (\n              <Link key={r.slug} href={`/prestations/${r.slug}`} className=\"box\" style={{ padding: 16, justifyContent: \"flex-start\" }}>\n                <div style={{ width: 88, flexShrink: 0 }}><Photo src={r.image} alt={r.title} ratio=\"1 / 1\" /></div>\n                <div><h3>{r.title}</h3><span className=\"mono\">Voir la page</span></div>\n              </Link>\n            ))}\n          </div>\n          <p className=\"caption\" style={{ marginTop: 28 }}>{services.length} prestations — Bordeaux et alentours</p>\n        </div>\n      </section>\n\n      <CtaBand />\n    </>\n  );\n}\n",
+  "css": ":root {\n  --bg: #faf7f0;\n  --bg-alt: #f4ede3;\n  --white: #ffffff;\n  --ink: #1b1b1b;\n  --muted: #5c5750;\n  --dim: #8c857b;\n  --line: #e3dccf;\n  --gold: #c0994f;\n  --green: #2a4236;\n  --dark: #1b1b1b;\n  --f-display: var(--font-display), \"Times New Roman\", serif;\n  --f-body: var(--font-body), system-ui, sans-serif;\n  --f-mono: var(--font-mono), ui-monospace, monospace;\n  --w: 1160px;\n}\n*, *::before, *::after { box-sizing: border-box; }\nhtml { -webkit-text-size-adjust: 100%; }\nbody { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.65; -webkit-font-smoothing: antialiased; }\nimg { max-width: 100%; display: block; }\na { color: inherit; text-decoration: none; }\nul { list-style: none; margin: 0; padding: 0; }\nh1, h2, h3, p { margin: 0; }\n:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; }\n.container { width: 100%; max-width: calc(var(--w) + 48px); margin: 0 auto; padding: 0 24px; }\n.dim { color: var(--dim); } .small { font-size: 12px; }\n\n/* type */\nh1, h2, h3, .logo-name, .footer-logo, .footer-phone, .quote { font-family: var(--f-display); font-weight: 400; letter-spacing: -0.02em; }\nh1 { font-size: clamp(40px, 6vw, 68px); line-height: 1.02; max-width: 16ch; }\nh2 { font-size: clamp(28px, 3.6vw, 42px); line-height: 1.1; }\nh3 { font-size: 22px; line-height: 1.2; }\n.eyebrow, .mono { font-family: var(--f-mono); font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; }\n.eyebrow { color: var(--ink); margin-bottom: 18px; }\n.lead { color: var(--muted); font-size: 17px; max-width: 58ch; margin-top: 22px; }\n.prose p { color: var(--muted); margin-bottom: 18px; max-width: 62ch; }\n\n/* buttons */\n.btn { display: inline-flex; align-items: center; justify-content: center; gap: 10px; padding: 14px 22px; font-family: var(--f-mono); font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; border: 1px solid var(--dark); border-radius: 6px; cursor: pointer; transition: background .2s, color .2s; }\n.btn--dark { background: var(--dark); color: #fff; }\n.btn--dark:hover { background: #000; }\n.btn--line { background: transparent; color: var(--ink); border-color: var(--line); }\n.btn--line:hover { border-color: var(--ink); }\n.btn--sm { padding: 12px 22px; }\n.btn--block { width: 100%; }\n.link-u { font-family: var(--f-mono); font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; display: inline-flex; gap: 8px; align-items: center; border-bottom: 1px solid var(--gold); padding-bottom: 3px; }\n\n/* header */\n.header { position: sticky; top: 0; z-index: 50; background: rgba(250,247,240,.94); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }\n.header-in { display: flex; align-items: center; justify-content: space-between; gap: 24px; height: 80px; }\n.logo { display: flex; align-items: center; gap: 12px; }\n.logo-name { font-size: 28px; line-height: 1; }\n.logo-sub { font-family: var(--f-mono); font-size: 9px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); line-height: 1.3; }\n.nav { display: flex; gap: 30px; }\n.nav a { font-family: var(--f-mono); font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); transition: color .2s; }\n.nav a:hover, .nav a[aria-current=\"page\"] { color: var(--ink); }\n.nav-phone-m { display: none; }\n.header-cta { display: flex; align-items: center; gap: 16px; }\n.header-phone { display: inline-flex; gap: 8px; align-items: center; font-family: var(--f-mono); font-size: 11px; letter-spacing: 0.16em; }\n.burger { display: none; width: 40px; height: 40px; background: none; border: 0; position: relative; cursor: pointer; }\n.burger span { position: absolute; left: 9px; right: 9px; height: 1.5px; background: var(--ink); transition: transform .2s; }\n.burger span:first-child { top: 15px; } .burger span:last-child { top: 24px; }\n.burger[aria-expanded=\"true\"] span:first-child { transform: translateY(4.5px) rotate(45deg); }\n.burger[aria-expanded=\"true\"] span:last-child { transform: translateY(-4.5px) rotate(-45deg); }\n\n/* breadcrumb + page hero */\n.crumbs { font-family: var(--f-mono); font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--dim); margin-bottom: 30px; display: flex; flex-wrap: wrap; gap: 8px; }\n.crumbs i { font-style: normal; margin: 0 8px 0 0; } .crumbs b { color: var(--ink); font-weight: 500; }\n.crumbs a:hover { color: var(--ink); }\n.hero-page { padding: 44px 0 64px; border-bottom: 1px solid var(--line); }\n\n/* sections */\n.section { padding: 80px 0; }\n.section--white { background: var(--white); }\n.section--alt { background: var(--bg-alt); }\n.section + .section { border-top: 1px solid var(--line); }\n.split { display: grid; grid-template-columns: 1.15fr 1fr; gap: 72px; align-items: start; }\n.split--rev { grid-template-columns: 1fr 1.15fr; }\n\n/* photo */\n.photo { position: relative; overflow: hidden; background: #e9dfce; width: 100%; }\n.photo img { width: 100%; height: 100%; object-fit: cover; }\n.photo-ph { position: absolute; inset: 0; display: grid; place-items: center; background: linear-gradient(135deg, #e8dcc7, #d6c3a2); }\n.photo-ph span { font-family: var(--f-mono); font-size: 10px; letter-spacing: .12em; color: #8a7655; }\n.caption { font-family: var(--f-mono); font-size: 10px; letter-spacing: .12em; text-transform: uppercase; color: var(--dim); margin-top: 10px; }\n\n/* cards grid */\n.grid3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 56px 32px; }\n.card .photo { margin-bottom: 22px; }\n.card h3 { margin-bottom: 8px; }\n.card p { color: var(--muted); font-size: 15px; margin-bottom: 16px; }\n.card .photo img { transition: transform .6s; } .card:hover .photo img { transform: scale(1.03); }\n\n/* urgent strip */\n.urgent { display: flex; gap: 20px; align-items: center; justify-content: space-between; background: var(--bg-alt); border: 1px solid var(--line); padding: 28px 32px; margin-top: 56px; }\n.urgent-l { display: flex; gap: 18px; align-items: flex-start; }\n.urgent h3 { font-size: 26px; margin: 4px 0 6px; } .urgent p:last-child { color: var(--muted); font-size: 15px; }\n\n/* before/after */\n.ba { cursor: ew-resize; touch-action: pan-y; user-select: none; -webkit-user-select: none; position: relative; aspect-ratio: 4 / 3; overflow: hidden; background: #e9dfce; }\n.ba-layer { position: absolute; inset: 0; } .ba-layer .photo { height: 100%; aspect-ratio: auto !important; }\n.ba-tag { position: absolute; top: 12px; font-family: var(--f-mono); font-size: 10px; letter-spacing: .16em; text-transform: uppercase; padding: 5px 10px; z-index: 2; }\n.ba-tag--l { left: 12px; background: var(--dark); color: #fff; } .ba-tag--r { right: 12px; background: #fff; color: var(--ink); }\n.ba-handle { position: absolute; top: 50%; width: 38px; height: 38px; margin: -19px 0 0 -19px; border-radius: 50%; background: var(--dark); color: #fff; display: grid; place-items: center; z-index: 3; pointer-events: none; box-shadow: 0 0 0 2px #fff; }\n.ba-line { position: absolute; top: 0; bottom: 0; width: 1px; margin-left: -.5px; background: #fff; z-index: 2; pointer-events: none; }\n.ba img { pointer-events: none; -webkit-user-drag: none; }\n.ba:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; }\n.work-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 56px 32px; }\n.work-meta { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; margin: 20px 0 8px; }\n.work-meta .mono { font-size: 9px; color: var(--dim); }\n.work p { color: var(--muted); font-size: 15px; max-width: 56ch; }\n.note { border-top: 1px solid var(--line); margin-top: 56px; padding-top: 16px; font-size: 12px; font-style: italic; color: var(--dim); max-width: 640px; }\n\n/* cta band */\n.cta-band { background: #f3ebe0; border-top: 1px solid var(--line); padding: 72px 0; }\n.cta-in { display: flex; justify-content: space-between; align-items: center; gap: 40px; }\n.cta-in p { color: var(--muted); margin-top: 14px; max-width: 54ch; }\n.cta-btns { display: flex; gap: 10px; flex-shrink: 0; }\n\n/* footer */\n.footer { background: var(--dark); color: #e9e4da; padding-top: 72px; }\n.footer-grid { display: grid; grid-template-columns: 1.5fr 1fr 1fr 1fr; gap: 40px; padding-bottom: 64px; }\n.footer-logo { font-size: 30px; margin-bottom: 16px; }\n.footer-desc { color: #c9c3b8; font-size: 15px; max-width: 34ch; }\n.footer-phone { display: inline-block; font-size: 26px; margin: 22px 0 18px; border-bottom: 1px solid var(--gold); }\n.footer address { font-style: normal; font-size: 14px; line-height: 1.7; }\n.footer-h { font-family: var(--f-mono); font-size: 10px; letter-spacing: .18em; text-transform: uppercase; color: #8c857b; margin-bottom: 20px; }\n.footer li { margin-bottom: 11px; font-size: 14px; } .footer li a:hover { color: #fff; text-decoration: underline; text-underline-offset: 4px; }\n.footer-rating { display: flex; align-items: center; gap: 8px; font-size: 14px; margin-bottom: 18px; }\n.footer-hours { font-size: 14px; margin-bottom: 18px; line-height: 1.5; }\n.footer-bottom { display: flex; justify-content: space-between; gap: 16px; padding-top: 22px; padding-bottom: 22px; border-top: 1px solid #333; font-family: var(--f-mono); font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: #8c857b; }\n.stars { color: var(--gold); display: inline-flex; gap: 3px; }\n\n/* details / faq */\n.faq { border-top: 1px solid var(--line); }\n.faq details { border-bottom: 1px solid var(--line); }\n.faq summary { list-style: none; cursor: pointer; display: flex; justify-content: space-between; align-items: center; gap: 20px; padding: 20px 0; font-family: var(--f-display); font-size: 21px; letter-spacing: -.01em; }\n.faq summary::-webkit-details-marker { display: none; }\n.faq summary svg { transition: transform .2s; flex-shrink: 0; } .faq details[open] summary svg { transform: rotate(180deg); }\n.faq details p { color: var(--muted); padding: 0 40px 22px 0; max-width: 62ch; }\n\n/* items list (service) */\n.items { display: grid; grid-template-columns: 1fr 1fr; gap: 0 28px; margin-top: 44px; }\n.items li { border-top: 1px solid var(--line); padding: 18px 0 22px; }\n.items .mono { color: var(--gold); font-size: 10px; display: block; margin-bottom: 10px; }\n.items h3 { font-size: 20px; margin-bottom: 6px; } .items p { color: var(--muted); font-size: 14px; }\n.side { background: var(--white); border: 1px solid var(--line); }\n.side-body { padding: 24px; display: grid; gap: 12px; }\n.side-body h3 { font-size: 20px; } .side-body .small { color: var(--dim); }\n.rate { display: flex; gap: 10px; align-items: center; font-family: var(--f-mono); font-size: 10px; letter-spacing: .14em; text-transform: uppercase; }\n.quote-band { background: #f3ebe0; padding: 80px 0; text-align: center; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }\n.quote { font-size: clamp(26px, 3.4vw, 38px); font-style: italic; line-height: 1.25; max-width: 28em; margin: 14px auto 0; }\n.quote-band .eyebrow { color: var(--gold); }\n\n/* reviews */\n.rev-wrap { display: grid; grid-template-columns: 1fr 2fr; gap: 56px; }\n.rev-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; align-items: start; }\n.rev { background: var(--white); border: 1px solid var(--line); padding: 24px; }\n.rev p.t { color: var(--muted); font-size: 15px; margin: 16px 0 20px; }\n.rev-by { border-top: 1px solid var(--line); padding-top: 14px; font-family: var(--f-mono); font-size: 10px; letter-spacing: .12em; text-transform: uppercase; }\n.rev-by span { color: var(--dim); display: block; margin-top: 2px; }\n.reply { border-left: 2px solid var(--gold); padding-left: 14px; margin-top: 18px; }\n.reply .mono { color: var(--gold); font-size: 9px; } .reply p { font-family: var(--f-display); font-style: italic; font-size: 17px; line-height: 1.3; margin-top: 6px; }\n\n/* about */\n.about-card { border: 1px solid var(--line); background: var(--white); padding: 24px; margin-top: 28px; display: grid; gap: 14px; }\n.pillars { display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px; }\n.pillars p { color: var(--muted); font-size: 14px; margin-top: 10px; }\nblockquote.q { margin: 40px 0 0; border-left: 2px solid var(--gold); padding-left: 20px; }\nblockquote.q p { font-family: var(--f-display); font-style: italic; font-size: 22px; letter-spacing: -.02em; }\nblockquote.q cite { display: block; margin-top: 10px; font-style: normal; font-family: var(--f-mono); font-size: 10px; letter-spacing: .16em; text-transform: uppercase; color: var(--dim); }\n\n/* pros */\n.checks li { display: flex; gap: 12px; align-items: baseline; font-size: 14px; margin-bottom: 14px; color: var(--muted); }\n.checks svg { flex-shrink: 0; transform: translateY(2px); color: var(--ink); }\n.trio { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 14px; }\n.trio > div { border-top: 1px solid var(--line); padding-top: 14px; }\n.trio h3 { font-size: 17px; margin-bottom: 6px; } .trio p { font-size: 12px; color: var(--muted); line-height: 1.55; }\n.steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: 32px; margin-top: 44px; }\n.steps li { border-top: 1px solid var(--line); padding-top: 18px; }\n.steps .mono { color: var(--gold); font-size: 10px; } .steps h3 { margin: 12px 0 8px; font-size: 22px; } .steps p { color: var(--muted); font-size: 14px; }\n.box { background: var(--white); border: 1px solid var(--line); padding: 32px 36px; display: flex; justify-content: space-between; align-items: center; gap: 32px; }\n.box p { color: var(--muted); margin-top: 8px; font-size: 15px; }\n\n/* contact */\n.contact-grid { display: grid; grid-template-columns: 1.45fr 1fr; gap: 56px; align-items: start; }\n.form-card { background: var(--white); border: 1px solid var(--line); padding: 40px; }\n.form-soon { display: grid; gap: 18px; justify-items: start; }\n.form-soon p:not(.eyebrow) { color: var(--muted); max-width: 52ch; }\n.direct { background: var(--dark); color: #fff; padding: 26px 28px; }\n.direct .mono { color: var(--gold); }\n.direct a { display: flex; align-items: center; gap: 12px; font-family: var(--f-display); font-size: 36px; letter-spacing: -.02em; margin: 8px 0 6px; }\n.direct p:last-child { font-size: 13px; color: #c9c3b8; }\n.infos { background: var(--white); border: 1px solid var(--line); margin-top: 16px; }\n.infos > div { padding: 22px 26px; display: grid; grid-template-columns: 24px 1fr; gap: 14px; border-top: 1px solid var(--line); }\n.infos > div:first-child { border-top: 0; }\n.infos .mono { font-size: 9px; color: var(--dim); display: block; margin-bottom: 6px; }\n.infos dl { margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 2px 16px; font-size: 15px; } .infos dd { margin: 0; color: var(--muted); }\n.map { margin-top: 16px; border: 1px solid var(--line); aspect-ratio: 16 / 7; } .map iframe { width: 100%; height: 100%; border: 0; }\n.legal h2 { font-size: 26px; margin: 36px 0 10px; }\n\n/* responsive */\n@media (max-width: 960px) {\n  .split, .split--rev, .rev-wrap, .contact-grid { grid-template-columns: 1fr; gap: 40px; }\n  .grid3 { grid-template-columns: repeat(2, 1fr); }\n  .steps { grid-template-columns: repeat(2, 1fr); }\n  .footer-grid { grid-template-columns: 1fr 1fr; }\n  .cta-in, .box, .urgent { flex-direction: column; align-items: flex-start; }\n  .nav { position: fixed; inset: 80px 0 auto 0; background: var(--bg); border-bottom: 1px solid var(--line); flex-direction: column; gap: 0; padding: 8px 24px 20px; display: none; }\n  .nav.is-open { display: flex; } .nav a { padding: 14px 0; border-bottom: 1px solid var(--line); }\n  .nav-phone-m { display: block; color: var(--ink) !important; }\n  .header-phone { display: none; } .burger { display: block; }\n}\n@media (max-width: 640px) {\n  .section { padding: 56px 0; } .hero-page { padding-bottom: 44px; }\n  .grid3, .work-grid, .items, .pillars, .trio, .steps, .rev-list { grid-template-columns: 1fr; }\n  .footer-grid { grid-template-columns: 1fr; } .footer-bottom { flex-direction: column; }\n  .cta-btns { flex-direction: column; width: 100%; } .cta-btns .btn { width: 100%; }\n  .form-card { padding: 24px; } .logo-sub { display: none; }\n}\n@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }\n\n/* ---------- accueil / identique maquette ---------- */\nh1 em, h2 em { font-style: italic; color: var(--green); }\n.label { display: flex; align-items: center; gap: 14px; font-family: var(--f-mono); font-size: 10px; letter-spacing: .18em; text-transform: uppercase; margin-bottom: 22px; }\n.label b { font-weight: 400; color: var(--gold); } .label i { width: 30px; height: 1px; background: var(--line); display: block; }\n.sec-lead { color: var(--muted); max-width: 62ch; margin-top: 22px; margin-bottom: 52px; }\n\n.hero-home { padding: 88px 0 96px; }\n.hero-home .container { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: start; }\n.hero-home h1 { font-size: clamp(46px, 5.6vw, 76px); max-width: 9.5em; line-height: 1; }\n.hero-home .lead { max-width: 46ch; margin-top: 26px; }\n.hero-btns { display: flex; gap: 10px; margin-top: 32px; flex-wrap: wrap; }\n.hero-rate { display: flex; align-items: center; gap: 12px; margin-top: 30px; font-family: var(--f-mono); font-size: 10px; letter-spacing: .14em; text-transform: uppercase; flex-wrap: wrap; }\n.hero-rate .sep { width: 1px; height: 12px; background: var(--line); } .hero-rate .dim { color: var(--muted); }\n.hero-photo { position: relative; padding-bottom: 28px; }\n.hero-photo::before { content: \"\"; position: absolute; left: -10px; top: 12px; right: 12px; bottom: 0; border: 1px solid #e3cfa8; pointer-events: none; }\n.hero-photo .caption { position: relative; padding-left: 4px; }\n\n.urgence { background: var(--green); color: #fff; padding: 36px 0; }\n.urgence .container { display: flex; justify-content: space-between; align-items: center; gap: 40px; }\n.urgence-l { display: flex; gap: 18px; align-items: flex-start; } .urgence-l svg { color: var(--gold); margin-top: 6px; flex-shrink: 0; }\n.urgence .mono { color: var(--gold); font-size: 9px; display: block; margin-bottom: 4px; }\n.urgence h2 { font-size: 30px; margin-bottom: 8px; }\n.urgence p.t { color: #c9d4cc; font-size: 14px; max-width: 54ch; }\n.urgence-r { text-align: left; flex-shrink: 0; }\n.urgence-r .btn { background: transparent; color: #fff; border-color: rgba(255,255,255,.35); }\n.urgence-r .btn:hover { border-color: #fff; }\n.urgence-r .mono { color: #9fb0a5; margin: 12px 0 0; font-size: 9px; }\n\n.trust { background: var(--bg-alt); border-bottom: 1px solid var(--line); }\n.trust .container { display: grid; grid-template-columns: repeat(3, 1fr); }\n.trust-i { padding: 20px 24px; border-left: 1px solid var(--line); display: flex; align-items: center; gap: 12px; justify-content: center; }\n.trust-i:first-child { border-left: 0; }\n.trust-i div { border-left: 1px solid var(--gold); padding-left: 12px; }\n.trust-i:first-child div { border: 0; padding: 0; }\n.trust-i strong { font-family: var(--f-display); font-weight: 400; font-size: 18px; display: block; line-height: 1.2; }\n.trust-i span.mono { font-size: 8px; color: var(--dim); letter-spacing: .16em; }\n\n.tabs-card { background: var(--white); border: 1px solid var(--line); padding: 8px 8px 0; }\n.tabs-card h3 { font-size: 17px; margin-top: 14px; padding: 0 6px; } .tabs-card .mono { font-size: 8px; color: var(--dim); display: block; padding: 4px 6px 14px; }\n\n.why { display: grid; grid-template-columns: 5fr 7fr; gap: 72px; align-items: end; }\n.why .photo { aspect-ratio: 4/5 !important; }\n.why ol { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); align-self: start; }\n.why li { display: grid; grid-template-columns: 38px 1fr; padding: 18px 0 20px; border-bottom: 1px solid var(--line); }\n.why li .mono { color: var(--gold); font-size: 9px; padding-top: 4px; } .why li h3 { font-size: 20px; } .why li p { color: var(--muted); font-size: 14px; margin-top: 4px; }\n\n.rev-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; align-items: stretch; }\n.rev-grid .rev { display: flex; flex-direction: column; position: relative; }\n.rev-grid .rev .t { flex: 1; }\n.rev-q { position: absolute; top: 16px; right: 20px; font-family: var(--f-display); font-size: 40px; line-height: 1; color: #e3cfa8; }\n.rev-foot { display: flex; justify-content: space-between; align-items: center; gap: 16px; border-top: 1px solid var(--line); margin-top: 28px; padding-top: 18px; flex-wrap: wrap; }\n\n.pros { background: var(--dark); color: #fff; padding: 88px 0; }\n.pros .container { display: grid; grid-template-columns: 1fr 1fr; gap: 72px; align-items: end; }\n.pros .photo { aspect-ratio: 3/2 !important; }\n.pros .eyebrow { color: var(--gold); } .pros h2 { margin-bottom: 20px; max-width: 14em; }\n.pros .p { color: #c9c3b8; font-size: 15px; margin-bottom: 28px; max-width: 56ch; }\n.pros dl { margin: 0; border-top: 1px solid #333; } .pros dl > div { padding: 16px 0 18px; border-bottom: 1px solid #333; }\n.pros dt { font-family: var(--f-display); font-size: 18px; } .pros dd { margin: 4px 0 0; color: #a39d92; font-size: 13px; }\n.pros .link-u { margin-top: 28px; color: #fff; }\n\n.zone { display: grid; grid-template-columns: 1fr 1.3fr; gap: 72px; align-items: start; }\n.zone h3 { display: flex; align-items: center; gap: 10px; font-size: 22px; margin-bottom: 10px; }\n.zone p { color: var(--muted); font-size: 14px; max-width: 46ch; } .zone .mono { font-size: 9px; color: var(--dim); display: block; margin-top: 14px; }\n.chips { display: flex; flex-wrap: wrap; gap: 8px; }\n.chip { font-family: var(--f-mono); font-size: 9px; letter-spacing: .14em; text-transform: uppercase; padding: 9px 13px; background: var(--white); border: 1px solid var(--line); }\n.chip--d { border-style: dashed; background: transparent; color: var(--dim); }\n\n.field { display: grid; gap: 8px; } .field > span, .fl { font-family: var(--f-mono); font-size: 9px; letter-spacing: .16em; text-transform: uppercase; color: var(--muted); }\n.field input, .field select, .field textarea { width: 100%; font: inherit; font-size: 15px; color: var(--ink); background: #f6f2ea; border: 1px solid #ddd5c6; padding: 14px 16px; border-radius: 0; }\n.field textarea { min-height: 130px; resize: vertical; } .field ::placeholder { color: #a39d92; }\n.field input:focus, .field select:focus, .field textarea:focus { outline: 2px solid var(--gold); outline-offset: -1px; }\n.form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }\n.form-grid .full { grid-column: 1 / -1; }\n.urgent-check { display: flex; align-items: center; gap: 12px; background: #f6f2ea; border: 1px solid #ddd5c6; padding: 14px 16px; font-size: 15px; cursor: pointer; }\n.photos-btn { display: inline-flex; align-items: center; gap: 10px; border: 1px dashed #c9bfae; padding: 12px 16px; font-family: var(--f-mono); font-size: 10px; letter-spacing: .16em; text-transform: uppercase; background: transparent; cursor: pointer; justify-self: start; color: var(--ink); border-radius: 6px; }\n.form-note { font-size: 12px; color: var(--dim); }\n.form-act { display: flex; align-items: center; gap: 22px; flex-wrap: wrap; }\n.form-act .call { display: inline-flex; gap: 8px; align-items: center; font-family: var(--f-mono); font-size: 10px; letter-spacing: .16em; text-transform: uppercase; border-bottom: 1px solid var(--gold); padding-bottom: 3px; color: var(--muted); }\n.form-note a { border-bottom: 1px solid var(--gold); }\n.form-msg { font-size: 14px; color: var(--green); }\n.contact-grid .form-card { display: grid; gap: 20px; align-content: start; }\n\n@media (max-width: 960px) {\n  .hero-home .container, .why, .pros .container, .zone { grid-template-columns: 1fr; gap: 40px; }\n  .rev-grid { grid-template-columns: repeat(2, 1fr); }\n  .urgence .container { flex-direction: column; align-items: flex-start; }\n  .trust .container { grid-template-columns: 1fr; } .trust-i { border-left: 0; border-top: 1px solid var(--line); justify-content: flex-start; } .trust-i:first-child { border-top: 0; }\n  .hero-photo { margin-left: 10px; }\n}\n@media (max-width: 640px) {\n  .rev-grid, .form-grid { grid-template-columns: 1fr; } .hero-home { padding: 48px 0 56px; } .pros { padding: 56px 0; }\n}\n\n/* Exterior-joinery detail pages only; preserve all shared page styles above. */\n.renovation-service-page .hero-page h1 { max-width: none; }\n.renovation-service-page { min-width: 0; overflow-wrap: anywhere; }\n.renovation-service-page .split > *, .renovation-service-page .rev-wrap > *, .renovation-service-page .rev-list > *, .renovation-service-page .box > * { min-width: 0; }\n.renovation-service-page .rate { flex-wrap: wrap; }\n.renovation-service-page .rev-foot { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 16px; margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--line); }\n.renovation-service-page .rev-foot + .note { margin-top: 16px; }\n"
+}

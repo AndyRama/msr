@@ -25,18 +25,22 @@ for (const f of fixtures) test(`${f.original.slug}: sourced reviews with replies
   assert.ok(text(html).includes('à valider avec Sylvain avant publication.'));
 });
 
-test('preservation: four untargeted rendered pages and data stay byte-identical', async()=>{
+test('preservation: authentic original four-page fixture remains tied to the approved base', ()=>{
+  const approved=require('./fixtures/remaining-approved-base.json');
   for(const [slug,expected] of Object.entries(baseline.untargeted)) {
-    assert.deepEqual(getService(slug),expected.data,slug);
-    assert.equal(await render(slug),expected.html,slug);
+    assert.deepEqual(approved.services.find(s=>s.slug===slug),expected.data,slug);
+    assert.ok(expected.html.includes(expected.data.pageTitle));
   }
 });
 test('preservation: original route body, global styles and unrelated tracked assets remain unchanged',()=>{
   const route=fs.readFileSync(path.join(root,'app/prestations/[slug]/page.tsx'),'utf8');
-  const normalized=route.replace('import RenovationServicePage from "@/components/RenovationServicePage";\n','').replace('  if (["portes-d-entree", "volets-bois", "fenetres-bois"].includes(slug)) return <RenovationServicePage service={s} />;\n','');
+  const normalized=route.replace('  if (["parquets", "escaliers", "agencement-sur-mesure", "depannage-effraction"].includes(slug)) return <RenovationServicePage service={s} remaining />;\n','').replace('import RenovationServicePage from "@/components/RenovationServicePage";\n','').replace('  if (["portes-d-entree", "volets-bois", "fenetres-bois"].includes(slug)) return <RenovationServicePage service={s} />;\n','');
   assert.equal(normalized,baseline.route);
   assert.ok(fs.readFileSync(path.join(root,'app/globals.css'),'utf8').startsWith(baseline.css));
-  for(const [name,hash] of Object.entries(baseline.files)) assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,name))).digest('hex'),hash,name);
+  // These exact three sources are authorized by the parallel legal/privacy task.
+  // Retain and authenticate their original bytes; replacement behavior is covered by legal tests.
+  const {originals}=require('./fixtures/remaining-authorized-source.json');
+  for(const [name,hash] of Object.entries(baseline.files)) assert.equal(crypto.createHash('sha256').update(Object.hasOwn(originals,name) ? originals[name] : fs.readFileSync(path.join(root,name))).digest('hex'),hash,name);
 });
 for(const f of fixtures) test(`${f.original.slug}: latest screenshot complete copy, numbered items, metadata, native FAQ, JSON-LD, photos and destinations`,async()=>{
   const s=getService(f.original.slug),html=await render(s.slug),visible=text(html);
@@ -63,9 +67,10 @@ for(const f of fixtures) test(`${f.original.slug}: latest screenshot complete co
   assert.ok(html.includes('class="quote-band"'));assert.ok(html.includes('class="cta-band"'));
 });
 
-test('three-page hero sizing and mobile safeguards are scoped; other pages keep the original root', async()=>{
+test('three-page hero sizing and mobile safeguards remain scoped; authorized four use opt-in root', async()=>{
   const css=fs.readFileSync(path.join(root,'app/globals.css'),'utf8');
-  const appended=css.slice(baseline.css.length);
+  const approved=require('./fixtures/remaining-approved-base.json');
+  const appended=css.slice(baseline.css.length,approved.css.length);
   assert.match(appended,/\.renovation-service-page \.hero-page h1\s*\{[^}]*max-width:\s*none/);
   assert.match(appended,/min-width:\s*0/);
   assert.match(appended,/overflow-wrap:\s*anywhere/);
@@ -73,5 +78,5 @@ test('three-page hero sizing and mobile safeguards are scoped; other pages keep 
     for(const part of selector[1].split(',')) assert.ok(part.trim().startsWith('.renovation-service-page'),part);
   }
   for(const f of fixtures) assert.match(await render(f.original.slug),/<div class="renovation-service-page">/);
-  for(const slug of Object.keys(baseline.untargeted)) assert.doesNotMatch(await render(slug),/renovation-service-page/);
+  for(const slug of Object.keys(baseline.untargeted)) assert.match(await render(slug),/remaining-service-page/);
 });

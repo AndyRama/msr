@@ -321,3 +321,17 @@ h1 em, h2 em { font-style: italic; color: var(--green); }
 .renovation-service-page .rate { flex-wrap: wrap; }
 .renovation-service-page .rev-foot { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 16px; margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--line); }
 .renovation-service-page .rev-foot + .note { margin-top: 16px; }
+
+/* Remaining four service pages: opt-in geometry, no shared/global overrides. */
+.remaining-service-page .hero-page h1 { max-width: none; }
+.remaining-service-page--escaliers .hero-page h1 { max-width: 19ch; }
+.remaining-service-page .btn { border-radius: 0; }
+.remaining-service-page .work-grid .box { flex-direction: row; align-items: center; gap: 20px; }
+.remaining-service-page .split > *, .remaining-service-page .rev-wrap > *, .remaining-service-page .box > * { min-width: 0; }
+.remaining-service-page .rev-list { align-items: stretch; }
+.remaining-service-page .rev { display: flex; flex-direction: column; position: relative; }
+.remaining-service-page .rev .t { flex: 1; }
+.remaining-service-page .rev::after { content: "❞"; position: absolute; top: 20px; right: 24px; color: var(--line); font-family: var(--f-display); font-size: 24px; line-height: 1; }
+
+/* Legal pages retain the centered reading column of the supplied references. */
+.container.prose.legal { max-width: 740px; }

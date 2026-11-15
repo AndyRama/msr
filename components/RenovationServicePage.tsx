@@ -7,11 +7,11 @@ import { PhoneIcon, ArrowUpRight, ChevronDown } from "@/components/Icons";
 import { getService, services, type Service } from "@/lib/services";
 import { site } from "@/lib/site";
 
-/** Rendering reserved for the three exterior-joinery renovation pages. */
-export default function RenovationServicePage({ service: s }: { service: Service }) {
+/** Shared service detail layout; remaining-page overrides are opt-in. */
+export default function RenovationServicePage({ service: s, remaining = false }: { service: Service; remaining?: boolean }) {
   const related = s.related.map((r) => getService(r)!).filter(Boolean);
-  // Keep the shared service-card label unchanged on the four legacy pages.
-  const displayTitle = s.slug === "volets-bois" ? "Volets bois" : s.title;
+  // Display labels can differ from the preserved shared catalog labels.
+  const displayTitle = s.slug === "volets-bois" ? "Volets bois" : remaining && s.slug === "depannage-effraction" ? "Dépannage effraction" : s.title;
 
   const faqLd = {
     "@context": "https://schema.org",
@@ -20,7 +20,7 @@ export default function RenovationServicePage({ service: s }: { service: Service
   };
 
   return (
-    <div className="renovation-service-page">
+    <div className={remaining ? `renovation-service-page remaining-service-page remaining-service-page--${s.slug}` : "renovation-service-page"}>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd).replace(/</g, "\\u003c") }} />
       <PageHero
         crumbs={[{ label: "Prestations", href: "/prestations" }, { label: displayTitle }]}

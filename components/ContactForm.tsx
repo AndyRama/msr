@@ -39,7 +39,7 @@ export default function ContactForm() {
           Ajouter des photos
           <input type="file" name="photos" accept="image/jpeg,image/png,image/webp" multiple hidden />
         </label>
-        <p className="form-note">JPG, PNG ou WebP, 5 Mo max par photo, 4 photos maximum. Les photos sont stockées de façon privée.</p>
+        <p className="form-note">JPG, PNG ou WebP, 5 Mo max par photo, 4 photos maximum. Les photos restent dans votre navigateur : elles ne sont ni envoyées ni stockées par le site tant que l’envoi en ligne n’est pas intégré.</p>
       </div>
       <div className="form-act">
         <button type="submit" className="btn btn--dark">Envoyer ma demande <span aria-hidden="true">→</span></button>
