@@ -1,3 +1,5 @@
+import { reviews } from "./reviews";
+
 export type Service = {
   slug: string;
   title: string;
@@ -62,51 +64,112 @@ export const services: Service[] = [
   {
     slug: "volets-bois",
     title: "Volets à persiennes",
-    pageTitle: "Rénovation de volets bois et persiennes à Bordeaux",
-    eyebrow: "Volets & persiennes",
-    lead: "Des persiennes fatiguées peuvent retrouver des années de service. On les répare avant de les remplacer.",
+    pageTitle: "Restauration de volets bois à Bordeaux",
+    eyebrow: "Volets & fenêtres",
+    lead: "Des persiennes qui coincent, une peinture qui s'écaille, une lame cassée : avant de les remplacer, regardons ce qu'elles ont encore à dire.",
     short: "Des persiennes fatiguées peuvent retrouver des années de service. Restauration, lames, ferrures, réglages.",
     intro: [
-      "Sur la pierre blonde bordelaise, les persiennes font la façade. Quand elles gondolent, qu'une lame casse ou qu'un volet ne se ferme plus, le remplacement complet n'est pas une obligation.",
-      "Nous déposons les volets, remettons en état les lames et les ferrures, puis les reposons avec des réglages soignés. Les persiennes d'origine sont gardées chaque fois que c'est possible.",
+      "Sur les façades en pierre blonde de Bordeaux, les volets à persiennes font autant partie du bâtiment que les moulures. Bien restaurés, ils protègent du soleil, tiennent la rue à distance et tiennent encore des décennies.",
+      "Nous déposons, remettons en état et reposons : lames, assemblages, ferrures, réglages. Souvent, la restauration coûte moins cher qu'un remplacement — et elle garde l'ensemble cohérent avec la façade."
     ],
     items: [
-      { t: "Restauration de persiennes", d: "Dépose, remplacement des lames cassées, reprise des cadres et des assemblages." },
-      { t: "Ferrures et quincaillerie", d: "Gonds, espagnolettes, arrêts : remise en état ou remplacement à l'identique." },
-      { t: "Réglages et repose", d: "Alignement, jeu, fermeture : le volet s'ouvre et se ferme comme au premier jour." },
-      { t: "Volets sur mesure", d: "Quand la restauration n'est plus possible, fabrication de volets bois aux dimensions de la baie." },
+      {
+        "t": "Restauration de persiennes",
+        "d": "Remise en état des lames et des assemblages, sans perdre la patine du bois."
+      },
+      {
+        "t": "Lames et ferrures",
+        "d": "Remplacement des lames abîmées et réglage des ferrures pour que les volets coulissent et se ferment correctement."
+      },
+      {
+        "t": "Volets et contrevents bois",
+        "d": "Reprise des volets et contrevents en bois, dans le respect de la menuiserie existante."
+      },
+      {
+        "t": "Dépose et repose soignées",
+        "d": "Les volets sont démontés, travaillés puis reposés en place, sans abîmer la façade ni les tableaux."
+      },
+      {
+        "t": "Préparation avant finition",
+        "d": "Les bois sont préparés pour la finition de votre choix : nous parlons ensemble des options avant de chiffrer."
+      }
     ],
-    quote: "Une persienne bien restaurée dure encore des décennies. C'est du bois, ça se répare.",
+    quote: "Rue Sainte-Catherine ou cours de l'Intendance, la persienne est un motif de façade. La restaurer, c'est garder le rythme de la rue intact.",
     image: "volets.jpg",
+    reviews: ["Martine B.", "Claire M."].map((author) => reviews.find((r) => r.author === author)!),
     faq: [
-      { q: "Peut-on garder mes persiennes d'origine ?", a: "Dans la plupart des cas, oui. Nous remplaçons seulement les lames et pièces trop abîmées." },
-      { q: "Intervenez-vous en étage ?", a: "Oui, avec le matériel adapté. Nous précisons les contraintes d'accès lors de la visite." },
-      { q: "Peignez-vous les volets après réparation ?", a: "La finition peut être prévue dans le devis. Dites-nous ce que vous souhaitez." },
+      {
+        "q": "Mes vieilles persiennes sont-elles réparables ?",
+        "a": "Dans la plupart des cas, oui. Nous remplaçons seulement les lames et pièces trop abîmées."
+      },
+      {
+        "q": "Rénover ou remplacer des volets ?",
+        "a": "L'état des lames, des assemblages et des ferrures permet de choisir. Nous regardons ce qui peut être conservé et discutons d'un remplacement si la restauration n'est plus adaptée."
+      },
+      {
+        "q": "Travaillez-vous en hauteur ?",
+        "a": "Oui, avec le matériel adapté. Nous précisons les contraintes d'accès lors de la visite."
+      },
+      {
+        "q": "Combien de volets pouvez-vous traiter ?",
+        "a": "Le nombre de volets, leur état et les conditions d'accès sont à préciser lors de la visite. Le périmètre du chantier est défini dans le devis."
+      }
     ],
     related: ["fenetres-bois", "portes-d-entree"],
   },
   {
     slug: "fenetres-bois",
     title: "Fenêtres bois",
-    pageTitle: "Rénovation de fenêtres en bois à Bordeaux",
-    eyebrow: "Fenêtres & petits carreaux",
-    lead: "Réparer plutôt que jeter : fenêtres anciennes, petits carreaux, portes-fenêtres, réglages et joints.",
+    pageTitle: "Fenêtres en bois : réparation et pose à Bordeaux",
+    eyebrow: "Volets & fenêtres",
+    lead: "Une fenêtre qui ferme mal laisse passer l'air, le bruit et le doute. Parfois, elle demande juste d'être réparée.",
     short: "Réparer plutôt que jeter : fenêtres anciennes, petits carreaux, portes-fenêtres, réglages et joints.",
     intro: [
-      "Une fenêtre en bois ancienne qui ne ferme plus bien se répare le plus souvent : on reprend le bois, on ajuste, on remet des joints et de la quincaillerie.",
-      "Résultat : moins de courants d'air, une fenêtre qui s'ouvre normalement, et la façade garde son aspect d'origine.",
+      "Les fenêtres en bois des immeubles anciens ont une qualité qu'on ne trouve pas toujours dans les menuiseries neuves : des montants fins, des petits carreaux, une lumière particulière. Leur entretien est simple, à condition d'être fait correctement.",
+      "Nous réparons les menuiseries existantes quand c'est possible, et nous posons des fenêtres neuves — bois ou PVC en rénovation — quand le remplacement s'impose. Le choix se fait ensemble, en fonction de l'état, du budget et du confort attendu."
     ],
     items: [
-      { t: "Réparation de fenêtres anciennes", d: "Reprise du bois, des assemblages et des petits carreaux." },
-      { t: "Joints et étanchéité", d: "Pose de joints, ajustement des battants, suppression des courants d'air." },
-      { t: "Quincaillerie", d: "Crémones, poignées, paumelles : remise en état ou remplacement à l'identique." },
-      { t: "Portes-fenêtres", d: "Réglages et réparations des portes-fenêtres en bois." },
+      {
+        "t": "Réparation de fenêtres anciennes",
+        "d": "Reprise des bois, ajustement des ouvrants, remise en état de la quincaillerie."
+      },
+      {
+        "t": "Pose de fenêtres en rénovation",
+        "d": "Fenêtres PVC en rénovation, posées dans le cadre existant, sans casser les tableaux."
+      },
+      {
+        "t": "Portes-fenêtres et portes vitrées",
+        "d": "Réparation ou dépose d'une porte-fenêtre en bois qui ne ferme plus, qui frotte ou qui laisse entrer l'air."
+      },
+      {
+        "t": "Réglages et joints",
+        "d": "Courants d'air, joints passés : parfois quelques réglages et il n'en passe plus."
+      },
+      {
+        "t": "Petits carreaux",
+        "d": "Conserver la finesse des petits bois d'origine quand c'est viable, c'est garder le caractère de la pièce."
+      }
     ],
-    quote: "La fenêtre refonctionne et l'air ne passe plus.",
+    quote: "Une fenêtre ancienne bien réparée, c'est de la lumière avec du caractère. Une fenêtre mal posée, c'est une pièce qui perd son visage.",
     image: "fenetres.jpg",
+    reviews: ["Martine B.", "Camille & Théo"].map((author) => reviews.find((r) => r.author === author)!),
     faq: [
-      { q: "Peut-on améliorer l'isolation sans changer les fenêtres ?", a: "Souvent, oui : réglages, joints et reprise de la quincaillerie améliorent nettement l'étanchéité." },
-      { q: "Les petits carreaux sont-ils conservés ?", a: "Oui. Nous remplaçons uniquement les vitrages cassés ou les pièces trop abîmées." },
+      {
+        "q": "Peut-on réparer mes fenêtres anciennes ?",
+        "a": "Souvent, oui : réglages, joints et reprise de la quincaillerie améliorent nettement l'étanchéité."
+      },
+      {
+        "q": "Bois ou PVC : comment choisir ?",
+        "a": "Le choix dépend de l'état des fenêtres, du caractère de la façade, du budget et du confort recherché. Nous examinons d'abord les menuiseries existantes avant de discuter d'une réparation ou d'une pose en rénovation."
+      },
+      {
+        "q": "Une fenêtre qui ferme mal doit-elle être remplacée ?",
+        "a": "Pas nécessairement. Un ajustement des ouvrants, une reprise du bois, des joints ou de la quincaillerie peuvent suffire. L'état de la fenêtre permet de déterminer l'intervention adaptée."
+      },
+      {
+        "q": "Intervenez-vous en copropriété ?",
+        "a": "Oui, c'est le cœur de notre activité à Bordeaux. Nous nous adaptons aux contraintes de l'immeuble et prévenons le syndic ou le gardien si nécessaire."
+      }
     ],
     related: ["volets-bois", "portes-d-entree"],
   },

@@ -1,0 +1,215 @@
+[
+  {
+    "route": "/prestations/portes-d-entree",
+    "original": {
+      "slug": "portes-d-entree",
+      "title": "Portes d'entrée",
+      "pageTitle": "Rénovation de porte d'entrée à Bordeaux",
+      "eyebrow": "Portes & ouvertures",
+      "lead": "Votre porte d'entrée a du caractère et elle ne ferme plus comme avant ? Souvent, elle n'a pas besoin d'être remplacée.",
+      "short": "Rénover une porte ancienne plutôt que la remplacer : bois, quincaillerie, réglages, étanchéité.",
+      "intro": [
+        "Dans les immeubles bordelais, les portes anciennes font partie de l'âme du lieu. Les arracher pour poser un modèle standard, c'est perdre ce qui donne son cachet à un hall, à un couloir, à une entrée.",
+        "MSR Bois rénove les portes anciennes : reprise des panneaux abîmés, remise en état du bâti, réglages, quincaillerie et finition. Quand la rénovation n'est plus raisonnable, nous posons aussi des portes neuves — et nous vous disons franchement ce qui est préférable dans votre cas."
+      ],
+      "items": [
+        {
+          "t": "Rénovation de portes anciennes",
+          "d": "Dépose, reprise des panneaux et du bâti, remise en état des bois, réglages et repose."
+        },
+        {
+          "t": "Remplacement de porte d'entrée",
+          "d": "Quand la structure est trop atteinte : porte neuve, aux bonnes dimensions, posée proprement."
+        },
+        {
+          "t": "Portes de boutique et de commerce",
+          "d": "Une porte de boutique ancienne se rénove sans effacer ce qui fait son caractère."
+        },
+        {
+          "t": "Portes-fenêtres et portes vitrées",
+          "d": "Réparation d'une porte-fenêtre en bois, dépose, ajustements et remise en service."
+        },
+        {
+          "t": "Réglages et étanchéité",
+          "d": "Une porte qui frotte, qui ne joint plus, qui laisse passer l'air : souvent quelques réglages suffisent."
+        }
+      ],
+      "quote": "Un hall bordelais, une porte cochère, une moulure : ici, on répare avant de remplacer. C'est aussi, presque toujours, la solution la plus raisonnable pour votre budget.",
+      "image": "porte-entree.jpg",
+      "reviews": [
+        {
+          "text": "Sylvain a rénové notre porte d'entrée ancienne. Il a été le premier à répondre et le seul à nous rappeler. Devis clair, donné rapidement, et un travail vraiment soigné : la porte ferme parfaitement et le bois est superbe. Le chantier a été laissé impeccable.",
+          "author": "Claire M.",
+          "date": "Mars 2025",
+          "tag": "Porte d'entrée",
+          "reply": "Merci Claire, c'était un vrai plaisir de redonner vie à cette porte. Elle avait du caractère, il fallait juste la respecter. À bientôt !"
+        },
+        {
+          "text": "Après une tentative d'effraction sur notre commerce, Sylvain est venu remettre le cadre de porte en état très rapidement. Réactif, franc sur ce qui était possible de faire, et un travail solide. On a pu rouvrir sans stress.",
+          "author": "Antoine R.",
+          "date": "Février 2025",
+          "tag": "Effraction",
+          "reply": "Merci Antoine. Dans ces moments-là, le plus important c'est de sécuriser vite et proprement. Bonne reprise à vous et à votre équipe."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Faut-il rénover ou remplacer une porte d'entrée ancienne ?",
+          "a": "Tant que le bâti et les panneaux sont sains, la rénovation est presque toujours préférable : elle conserve le caractère de la porte et coûte généralement moins cher. Si la structure est trop atteinte, nous vous le disons et proposons un remplacement."
+        },
+        {
+          "q": "Intervenez-vous dans les immeubles anciens et en copropriété ?",
+          "a": "Oui, c'est le cœur de notre activité à Bordeaux. Nous nous adaptons aux contraintes de l'immeuble et prévenons le syndic ou le gardien si nécessaire."
+        },
+        {
+          "q": "Combien de temps prend une rénovation de porte ?",
+          "a": "Selon l'état de la porte, la rénovation se fait en atelier ou sur place, en quelques jours. Le délai exact vous est donné dans le devis."
+        },
+        {
+          "q": "Travaillez-vous pour les commerces ?",
+          "a": "Oui. Nous organisons le chantier autour de vos horaires d'ouverture pour limiter l'arrêt d'activité."
+        }
+      ],
+      "related": [
+        "volets-bois",
+        "depannage-effraction"
+      ]
+    },
+    "expectedReviews": [
+      {
+        "text": "Sylvain a rénové notre porte d'entrée ancienne. Il a été le premier à répondre et le seul à nous rappeler. Devis clair, donné rapidement, et un travail vraiment soigné : la porte ferme parfaitement et le bois est superbe. Le chantier a été laissé impeccable.",
+        "author": "Claire M.",
+        "date": "Mars 2025",
+        "tag": "Porte d'entrée",
+        "reply": "Merci Claire, c'était un vrai plaisir de redonner vie à cette porte. Elle avait du caractère, il fallait juste la respecter. À bientôt !"
+      },
+      {
+        "text": "Après une tentative d'effraction sur notre commerce, Sylvain est venu remettre le cadre de porte en état très rapidement. Réactif, franc sur ce qui était possible de faire, et un travail solide. On a pu rouvrir sans stress.",
+        "author": "Antoine R.",
+        "date": "Février 2025",
+        "tag": "Effraction",
+        "reply": "Merci Antoine. Dans ces moments-là, le plus important c'est de sécuriser vite et proprement. Bonne reprise à vous et à votre équipe."
+      }
+    ]
+  },
+  {
+    "route": "/prestations/volets-bois",
+    "original": {
+      "slug": "volets-bois",
+      "title": "Volets à persiennes",
+      "pageTitle": "Rénovation de volets bois et persiennes à Bordeaux",
+      "eyebrow": "Volets & persiennes",
+      "lead": "Des persiennes fatiguées peuvent retrouver des années de service. On les répare avant de les remplacer.",
+      "short": "Des persiennes fatiguées peuvent retrouver des années de service. Restauration, lames, ferrures, réglages.",
+      "intro": [
+        "Sur la pierre blonde bordelaise, les persiennes font la façade. Quand elles gondolent, qu'une lame casse ou qu'un volet ne se ferme plus, le remplacement complet n'est pas une obligation.",
+        "Nous déposons les volets, remettons en état les lames et les ferrures, puis les reposons avec des réglages soignés. Les persiennes d'origine sont gardées chaque fois que c'est possible."
+      ],
+      "items": [
+        {
+          "t": "Restauration de persiennes",
+          "d": "Dépose, remplacement des lames cassées, reprise des cadres et des assemblages."
+        },
+        {
+          "t": "Ferrures et quincaillerie",
+          "d": "Gonds, espagnolettes, arrêts : remise en état ou remplacement à l'identique."
+        },
+        {
+          "t": "Réglages et repose",
+          "d": "Alignement, jeu, fermeture : le volet s'ouvre et se ferme comme au premier jour."
+        },
+        {
+          "t": "Volets sur mesure",
+          "d": "Quand la restauration n'est plus possible, fabrication de volets bois aux dimensions de la baie."
+        }
+      ],
+      "quote": "Une persienne bien restaurée dure encore des décennies. C'est du bois, ça se répare.",
+      "image": "volets.jpg",
+      "faq": [
+        {
+          "q": "Peut-on garder mes persiennes d'origine ?",
+          "a": "Dans la plupart des cas, oui. Nous remplaçons seulement les lames et pièces trop abîmées."
+        },
+        {
+          "q": "Intervenez-vous en étage ?",
+          "a": "Oui, avec le matériel adapté. Nous précisons les contraintes d'accès lors de la visite."
+        },
+        {
+          "q": "Peignez-vous les volets après réparation ?",
+          "a": "La finition peut être prévue dans le devis. Dites-nous ce que vous souhaitez."
+        }
+      ],
+      "related": [
+        "fenetres-bois",
+        "portes-d-entree"
+      ]
+    },
+    "expectedReviews": [
+      {
+        "text": "Restauration de nos volets à persiennes et de nos fenêtres en bois. J'avais peur qu'ils soient irrécupérables, Sylvain a pris le temps de tout regarder et de tout reprendre. Le résultat est magnifique et la façade a retrouvé son cachet.",
+        "author": "Martine B.",
+        "date": "Septembre 2024",
+        "tag": "Volets à persiennes",
+        "reply": "Merci Martine. Ces persiennes avaient de belles années devant elles, il suffisait de s'en occuper sérieusement. Merci de votre confiance."
+      }
+    ]
+  },
+  {
+    "route": "/prestations/fenetres-bois",
+    "original": {
+      "slug": "fenetres-bois",
+      "title": "Fenêtres bois",
+      "pageTitle": "Rénovation de fenêtres en bois à Bordeaux",
+      "eyebrow": "Fenêtres & petits carreaux",
+      "lead": "Réparer plutôt que jeter : fenêtres anciennes, petits carreaux, portes-fenêtres, réglages et joints.",
+      "short": "Réparer plutôt que jeter : fenêtres anciennes, petits carreaux, portes-fenêtres, réglages et joints.",
+      "intro": [
+        "Une fenêtre en bois ancienne qui ne ferme plus bien se répare le plus souvent : on reprend le bois, on ajuste, on remet des joints et de la quincaillerie.",
+        "Résultat : moins de courants d'air, une fenêtre qui s'ouvre normalement, et la façade garde son aspect d'origine."
+      ],
+      "items": [
+        {
+          "t": "Réparation de fenêtres anciennes",
+          "d": "Reprise du bois, des assemblages et des petits carreaux."
+        },
+        {
+          "t": "Joints et étanchéité",
+          "d": "Pose de joints, ajustement des battants, suppression des courants d'air."
+        },
+        {
+          "t": "Quincaillerie",
+          "d": "Crémones, poignées, paumelles : remise en état ou remplacement à l'identique."
+        },
+        {
+          "t": "Portes-fenêtres",
+          "d": "Réglages et réparations des portes-fenêtres en bois."
+        }
+      ],
+      "quote": "La fenêtre refonctionne et l'air ne passe plus.",
+      "image": "fenetres.jpg",
+      "faq": [
+        {
+          "q": "Peut-on améliorer l'isolation sans changer les fenêtres ?",
+          "a": "Souvent, oui : réglages, joints et reprise de la quincaillerie améliorent nettement l'étanchéité."
+        },
+        {
+          "q": "Les petits carreaux sont-ils conservés ?",
+          "a": "Oui. Nous remplaçons uniquement les vitrages cassés ou les pièces trop abîmées."
+        }
+      ],
+      "related": [
+        "volets-bois",
+        "portes-d-entree"
+      ]
+    },
+    "expectedReviews": [
+      {
+        "text": "Restauration de nos volets à persiennes et de nos fenêtres en bois. J'avais peur qu'ils soient irrécupérables, Sylvain a pris le temps de tout regarder et de tout reprendre. Le résultat est magnifique et la façade a retrouvé son cachet.",
+        "author": "Martine B.",
+        "date": "Septembre 2024",
+        "tag": "Volets à persiennes",
+        "reply": "Merci Martine. Ces persiennes avaient de belles années devant elles, il suffisait de s'en occuper sérieusement. Merci de votre confiance."
+      }
+    ]
+  }
+]
