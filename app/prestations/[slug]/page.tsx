@@ -1,3 +1,4 @@
+import RenovationServicePage from "@/components/RenovationServicePage";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -26,6 +27,7 @@ export default async function Page({ params }: { params: Promise<Params> }) {
   const { slug } = await params;
   const s = getService(slug);
   if (!s) notFound();
+  if (["portes-d-entree", "volets-bois", "fenetres-bois"].includes(slug)) return <RenovationServicePage service={s} />;
   const related = s.related.map((r) => getService(r)!).filter(Boolean);
 
   const faqLd = {

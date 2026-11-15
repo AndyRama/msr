@@ -313,3 +313,11 @@ h1 em, h2 em { font-style: italic; color: var(--green); }
 @media (max-width: 640px) {
   .rev-grid, .form-grid { grid-template-columns: 1fr; } .hero-home { padding: 48px 0 56px; } .pros { padding: 56px 0; }
 }
+
+/* Exterior-joinery detail pages only; preserve all shared page styles above. */
+.renovation-service-page .hero-page h1 { max-width: none; }
+.renovation-service-page { min-width: 0; overflow-wrap: anywhere; }
+.renovation-service-page .split > *, .renovation-service-page .rev-wrap > *, .renovation-service-page .rev-list > *, .renovation-service-page .box > * { min-width: 0; }
+.renovation-service-page .rate { flex-wrap: wrap; }
+.renovation-service-page .rev-foot { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 16px; margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--line); }
+.renovation-service-page .rev-foot + .note { margin-top: 16px; }
