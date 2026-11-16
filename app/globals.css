@@ -335,3 +335,36 @@ h1 em, h2 em { font-style: italic; color: var(--green); }
 
 /* Legal pages retain the centered reading column of the supplied references. */
 .container.prose.legal { max-width: 740px; }
+
+/* Mobile bottom actions: sibling of the filtered sticky header. */
+.mobile-actions { display: none; }
+@media (max-width: 960px) {
+  :root {
+    --mobile-actions-safe-bottom: env(safe-area-inset-bottom, 0px);
+    --mobile-actions-height: calc(69px + var(--mobile-actions-safe-bottom));
+  }
+  body { padding-bottom: var(--mobile-actions-height); }
+  .header-cta > .btn { display: none; }
+  .mobile-actions {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 12px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 40;
+    padding: 10px 16px calc(10px + var(--mobile-actions-safe-bottom));
+    background: var(--bg);
+    border-top: 1px solid var(--line);
+    box-shadow: 0 -3px 12px rgba(27,27,27,.06);
+  }
+  .mobile-actions > .btn { min-width: 0; min-height: 48px; padding: 10px 8px; }
+  .mobile-actions svg { flex-shrink: 0; }
+  .header .nav {
+    max-height: calc(100vh - 81px - var(--mobile-actions-height));
+    max-height: calc(100dvh - 81px - var(--mobile-actions-height));
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+}
