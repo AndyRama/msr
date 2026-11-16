@@ -11,6 +11,7 @@ export default function Header() {
   useEffect(() => setOpen(false), [pathname]);
 
   return (
+    <>
     <header className="header">
       <div className="container header-in">
         <Link href="/" className="logo" aria-label="MSR Bois, accueil">
@@ -35,5 +36,10 @@ export default function Header() {
         </div>
       </div>
     </header>
+    <nav className="mobile-actions" aria-label="Actions rapides">
+      <Link href="/contact" className="btn btn--dark"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" aria-hidden="true"><path d="M6 3h9l3 3v15H6zM9 10h6M9 14h6" /></svg>Devis</Link>
+      <a href={site.phoneHref} className="btn btn--dark"><PhoneIcon />Téléphone</a>
+    </nav>
+    </>
   );
 }

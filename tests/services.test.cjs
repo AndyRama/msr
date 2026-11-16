@@ -40,7 +40,12 @@ test('preservation: original route body, global styles and unrelated tracked ass
   // These exact three sources are authorized by the parallel legal/privacy task.
   // Retain and authenticate their original bytes; replacement behavior is covered by legal tests.
   const {originals}=require('./fixtures/remaining-authorized-source.json');
-  for(const [name,hash] of Object.entries(baseline.files)) assert.equal(crypto.createHash('sha256').update(Object.hasOwn(originals,name) ? originals[name] : fs.readFileSync(path.join(root,name))).digest('hex'),hash,name);
+  // Mobile actions authorize only a fragment and a new sibling; authenticate the old fixture.
+  const mobileOriginal = require('./fixtures/mobile-actions-original.json').header;
+  const mobileCurrent = fs.readFileSync(path.join(root,'components/Header.tsx'),'utf8');
+  const restoredHeader = mobileCurrent.replace('    <>\n', '').replace(/    <nav className="mobile-actions" aria-label="Actions rapides">\n[\s\S]*?    <\/nav>\n    <\/>\n/, '');
+  assert.equal(restoredHeader, mobileOriginal);
+  for(const [name,hash] of Object.entries(baseline.files)) assert.equal(crypto.createHash('sha256').update(name === 'components/Header.tsx' ? mobileOriginal : Object.hasOwn(originals,name) ? originals[name] : fs.readFileSync(path.join(root,name))).digest('hex'),hash,name);
 });
 for(const f of fixtures) test(`${f.original.slug}: latest screenshot complete copy, numbered items, metadata, native FAQ, JSON-LD, photos and destinations`,async()=>{
   const s=getService(f.original.slug),html=await render(s.slug),visible=text(html);
